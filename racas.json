@@ -1,0 +1,257 @@
+[
+    {
+        "nome": "Labrador Retriever",
+        "pelagem": "Curta",
+        "porte": "Grande"
+    },
+    {
+        "nome": "Golden Retriever",
+        "pelagem": "Longa e ondulada",
+        "porte": "Grande"
+    },
+    {
+        "nome": "Poodle Toy",
+        "pelagem": "Encaracolada",
+        "porte": "Pequeno"
+    },
+    {
+        "nome": "Poodle Miniatura",
+        "pelagem": "Encaracolada",
+        "porte": "Pequeno"
+    },
+    {
+        "nome": "Poodle Standard",
+        "pelagem": "Encaracolada",
+        "porte": "Médio"
+    },
+    {
+        "nome": "Bulldog Francês",
+        "pelagem": "Curta",
+        "porte": "Pequeno"
+    },
+    {
+        "nome": "Bulldog Inglês",
+        "pelagem": "Curta",
+        "porte": "Médio"
+    },
+    {
+        "nome": "Shih Tzu",
+        "pelagem": "Longa e lisa",
+        "porte": "Pequeno"
+    },
+    {
+        "nome": "Lhasa Apso",
+        "pelagem": "Longa e densa",
+        "porte": "Pequeno"
+    },
+    {
+        "nome": "Yorkshire Terrier",
+        "pelagem": "Longa e sedosa",
+        "porte": "Pequeno"
+    },
+    {
+        "nome": "Chihuahua",
+        "pelagem": "Curta ou longa",
+        "porte": "Pequeno"
+    },
+    {
+        "nome": "Pinscher Miniatura",
+        "pelagem": "Curta",
+        "porte": "Pequeno"
+    },
+    {
+        "nome": "Dachshund (Teckel)",
+        "pelagem": "Curta, longa ou dura",
+        "porte": "Pequeno"
+    },
+    {
+        "nome": "Beagle",
+        "pelagem": "Curta",
+        "porte": "Médio"
+    },
+    {
+        "nome": "Pastor Alemão",
+        "pelagem": "Média e densa",
+        "porte": "Grande"
+    },
+    {
+        "nome": "Rottweiler",
+        "pelagem": "Curta e densa",
+        "porte": "Grande"
+    },
+    {
+        "nome": "Pit Bull",
+        "pelagem": "Curta",
+        "porte": "Médio"
+    },
+    {
+        "nome": "Staffordshire Terrier",
+        "pelagem": "Curta",
+        "porte": "Médio"
+    },
+    {
+        "nome": "Border Collie",
+        "pelagem": "Longa e densa",
+        "porte": "Médio"
+    },
+    {
+        "nome": "Husky Siberiano",
+        "pelagem": "Densa e dupla",
+        "porte": "Grande"
+    },
+    {
+        "nome": "Akita Inu",
+        "pelagem": "Densa e dupla",
+        "porte": "Grande"
+    },
+    {
+        "nome": "Spitz Alemão (Lulu da Pomerânia)",
+        "pelagem": "Longa e fofa",
+        "porte": "Pequeno"
+    },
+    {
+        "nome": "Bichon Frisé",
+        "pelagem": "Encaracolada",
+        "porte": "Pequeno"
+    },
+    {
+        "nome": "Maltês",
+        "pelagem": "Longa e sedosa",
+        "porte": "Pequeno"
+    },
+    {
+        "nome": "Cocker Spaniel Inglês",
+        "pelagem": "Longa e ondulada",
+        "porte": "Médio"
+    },
+    {
+        "nome": "Cocker Americano",
+        "pelagem": "Longa e sedosa",
+        "porte": "Médio"
+    },
+    {
+        "nome": "Boxer",
+        "pelagem": "Curta",
+        "porte": "Grande"
+    },
+    {
+        "nome": "Dálmata",
+        "pelagem": "Curta",
+        "porte": "Médio"
+    },
+    {
+        "nome": "Doberman",
+        "pelagem": "Curta",
+        "porte": "Grande"
+    },
+    {
+        "nome": "Shar Pei",
+        "pelagem": "Curta e enrugada",
+        "porte": "Médio"
+    },
+    {
+        "nome": "Weimaraner",
+        "pelagem": "Curta e sedosa",
+        "porte": "Grande"
+    },
+    {
+        "nome": "Whippet",
+        "pelagem": "Curta e fina",
+        "porte": "Médio"
+    },
+    {
+        "nome": "Galgo Italiano",
+        "pelagem": "Curta e fina",
+        "porte": "Pequeno"
+    },
+    {
+        "nome": "Boston Terrier",
+        "pelagem": "Curta",
+        "porte": "Pequeno"
+    },
+    {
+        "nome": "Pug",
+        "pelagem": "Curta",
+        "porte": "Pequeno"
+    },
+    {
+        "nome": "São Bernardo",
+        "pelagem": "Longa e densa",
+        "porte": "Gigante"
+    },
+    {
+        "nome": "Terra Nova",
+        "pelagem": "Longa e densa",
+        "porte": "Gigante"
+    },
+    {
+        "nome": "Collie (Rough Collie)",
+        "pelagem": "Longa e densa",
+        "porte": "Grande"
+    },
+    {
+        "nome": "Schnauzer Miniatura",
+        "pelagem": "Dura (wire)",
+        "porte": "Pequeno"
+    },
+    {
+        "nome": "Schnauzer Standard",
+        "pelagem": "Dura (wire)",
+        "porte": "Médio"
+    },
+    {
+        "nome": "Schnauzer Gigante",
+        "pelagem": "Dura (wire)",
+        "porte": "Grande"
+    },
+    {
+        "nome": "Fox Terrier",
+        "pelagem": "Dura (wire)",
+        "porte": "Pequeno"
+    },
+    {
+        "nome": "West Highland White Terrier",
+        "pelagem": "Dura (wire)",
+        "porte": "Pequeno"
+    },
+    {
+        "nome": "Scottish Terrier",
+        "pelagem": "Dura (wire)",
+        "porte": "Pequeno"
+    },
+    {
+        "nome": "Setter Irlandês",
+        "pelagem": "Longa e sedosa",
+        "porte": "Grande"
+    },
+    {
+        "nome": "Cavalier King Charles Spaniel",
+        "pelagem": "Longa e sedosa",
+        "porte": "Pequeno"
+    },
+    {
+        "nome": "Chow Chow",
+        "pelagem": "Longa e densa",
+        "porte": "Grande"
+    },
+    {
+        "nome": "Pequinês",
+        "pelagem": "Longa e densa",
+        "porte": "Pequeno"
+    },
+    {
+        "nome": "Basset Hound",
+        "pelagem": "Curta",
+        "porte": "Médio"
+    },
+    {
+        "nome": "Cão de Crista Chinês",
+        "pelagem": "Sem pelos ou fina",
+        "porte": "Pequeno"
+    },
+    {
+        "nome": "Fila Brasileiro",
+        "pelagem": "Curta e densa",
+        "porte": "Gigante"
+    }
+]
