@@ -2,7 +2,7 @@
   {
     "nome": "Affenpinscher",
     "alergia": 3,
-    "espesura": 6,
+    "espessura": 6,
     "lisura": 4,
     "oleosidade": 4,
     "olfato": 6,
@@ -12,7 +12,7 @@
   {
     "nome": "Afghan Hound",
     "alergia": 4,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 9,
     "oleosidade": 4,
     "olfato": 6,
@@ -22,7 +22,7 @@
   {
     "nome": "Airedale Terrier",
     "alergia": 4,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 5,
     "oleosidade": 5,
     "olfato": 8,
@@ -32,7 +32,7 @@
   {
     "nome": "Akita",
     "alergia": 6,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 5,
     "oleosidade": 5,
     "olfato": 8,
@@ -42,7 +42,7 @@
   {
     "nome": "Alano Espanhol",
     "alergia": 4,
-    "espesura": 4,
+    "espessura": 4,
     "lisura": 5,
     "oleosidade": 5,
     "olfato": 7,
@@ -53,7 +53,7 @@
   {
     "nome": "American Bully",
     "alergia": 4,
-    "espesura": 4,
+    "espessura": 4,
     "lisura": 5,
     "oleosidade": 6,
     "olfato": 7,
@@ -64,7 +64,7 @@
   {
     "nome": "Australian Cattle Dog (Boiadeiro Australiano)",
     "alergia": 3,
-    "espesura": 6,
+    "espessura": 6,
     "lisura": 5,
     "oleosidade": 5,
     "olfato": 8,
@@ -74,7 +74,7 @@
   {
     "nome": "Azawakh",
     "alergia": 2,
-    "espesura": 2,
+    "espessura": 2,
     "lisura": 7,
     "oleosidade": 3,
     "olfato": 7,
@@ -84,7 +84,7 @@
   {
     "nome": "Barbudinho",
     "alergia": 3,
-    "espesura": 6,
+    "espessura": 6,
     "lisura": 4,
     "oleosidade": 5,
     "olfato": 7,
@@ -96,7 +96,7 @@
   {
     "nome": "Basenji",
     "alergia": 2,
-    "espesura": 3,
+    "espessura": 3,
     "lisura": 6,
     "oleosidade": 4,
     "olfato": 8,
@@ -106,7 +106,7 @@
   {
     "nome": "Basset Hound",
     "alergia": 5,
-    "espesura": 5,
+    "espessura": 5,
     "lisura": 5,
     "oleosidade": 7,
     "olfato": 10,
@@ -116,7 +116,7 @@
   {
     "nome": "Beagle",
     "alergia": 4,
-    "espesura": 5,
+    "espessura": 5,
     "lisura": 7,
     "oleosidade": 5,
     "olfato": 10,
@@ -126,7 +126,7 @@
   {
     "nome": "Bearded Collie",
     "alergia": 5,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 6,
     "oleosidade": 4,
     "olfato": 7,
@@ -136,7 +136,7 @@
   {
     "nome": "Beauceron",
     "alergia": 5,
-    "espesura": 6,
+    "espessura": 6,
     "lisura": 5,
     "oleosidade": 6,
     "olfato": 8,
@@ -146,7 +146,7 @@
   {
     "nome": "Bichon Frisé",
     "alergia": 2,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 9,
     "oleosidade": 3,
     "olfato": 6,
@@ -156,7 +156,7 @@
   {
     "nome": "Bloodhound",
     "alergia": 6,
-    "espesura": 6,
+    "espessura": 6,
     "lisura": 5,
     "oleosidade": 7,
     "olfato": 10,
@@ -166,7 +166,7 @@
   {
     "nome": "Boiadeiro de Appenzell",
     "alergia": 4,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 6,
     "oleosidade": 5,
     "olfato": 7,
@@ -176,7 +176,7 @@
   {
     "nome": "Boiadeiro de Berna",
     "alergia": 5,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 6,
     "oleosidade": 5,
     "olfato": 7,
@@ -186,7 +186,7 @@
   {
     "nome": "Boiadeiro de Entlebuch",
     "alergia": 4,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 6,
     "oleosidade": 5,
     "olfato": 7,
@@ -196,7 +196,7 @@
   {
     "nome": "Bolonês",
     "alergia": 2,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 9,
     "oleosidade": 3,
     "olfato": 6,
@@ -206,7 +206,7 @@
   {
     "nome": "Border Collie",
     "alergia": 4,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 6,
     "oleosidade": 4,
     "olfato": 8,
@@ -216,7 +216,7 @@
   {
     "nome": "Borzoi",
     "alergia": 5,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 8,
     "oleosidade": 4,
     "olfato": 7,
@@ -226,7 +226,7 @@
   {
     "nome": "Boston Terrier",
     "alergia": 4,
-    "espesura": 4,
+    "espessura": 4,
     "lisura": 6,
     "oleosidade": 5,
     "olfato": 7,
@@ -236,7 +236,7 @@
   {
     "nome": "Boxer",
     "alergia": 4,
-    "espesura": 5,
+    "espessura": 5,
     "lisura": 6,
     "oleosidade": 5,
     "olfato": 7,
@@ -246,7 +246,7 @@
   {
     "nome": "Braco Alemão (Kurzhaar)",
     "alergia": 4,
-    "espesura": 5,
+    "espessura": 5,
     "lisura": 6,
     "oleosidade": 5,
     "olfato": 9,
@@ -256,7 +256,7 @@
   {
     "nome": "Braco de Ariege",
     "alergia": 4,
-    "espesura": 5,
+    "espessura": 5,
     "lisura": 6,
     "oleosidade": 5,
     "olfato": 9,
@@ -266,7 +266,7 @@
   {
     "nome": "Braco de Weimar (Weimaraner de Pelo Longo)",
     "alergia": 4,
-    "espesura": 6,
+    "espessura": 6,
     "lisura": 7,
     "oleosidade": 5,
     "olfato": 9,
@@ -276,7 +276,7 @@
   {
     "nome": "Braco Eslovaco",
     "alergia": 4,
-    "espesura": 5,
+    "espessura": 5,
     "lisura": 6,
     "oleosidade": 5,
     "olfato": 9,
@@ -286,7 +286,7 @@
   {
     "nome": "Braco Francês (Tipo Gascão)",
     "alergia": 4,
-    "espesura": 5,
+    "espessura": 5,
     "lisura": 6,
     "oleosidade": 5,
     "olfato": 9,
@@ -296,7 +296,7 @@
   {
     "nome": "Braco Francês (Tipo Pirineus)",
     "alergia": 4,
-    "espesura": 5,
+    "espessura": 5,
     "lisura": 6,
     "oleosidade": 5,
     "olfato": 9,
@@ -306,7 +306,7 @@
   {
     "nome": "Braco Húngaro (Vizsla)",
     "alergia": 3,
-    "espesura": 4,
+    "espessura": 4,
     "lisura": 7,
     "oleosidade": 4,
     "olfato": 9,
@@ -316,7 +316,7 @@
   {
     "nome": "Braco Italiano",
     "alergia": 3,
-    "espesura": 4,
+    "espessura": 4,
     "lisura": 7,
     "oleosidade": 4,
     "olfato": 9,
@@ -326,7 +326,7 @@
   {
     "nome": "Buldogue Campeiro",
     "alergia": 5,
-    "espesura": 5,
+    "espessura": 5,
     "lisura": 4,
     "oleosidade": 7,
     "olfato": 7,
@@ -336,7 +336,7 @@
   {
     "nome": "Buldogue Serrano",
     "alergia": 5,
-    "espesura": 5,
+    "espessura": 5,
     "lisura": 4,
     "oleosidade": 6,
     "olfato": 8,
@@ -348,7 +348,7 @@
   {
     "nome": "Bull Terrier",
     "alergia": 4,
-    "espesura": 3,
+    "espessura": 3,
     "lisura": 5,
     "oleosidade": 5,
     "olfato": 7,
@@ -358,7 +358,7 @@
   {
     "nome": "Bulldog Francês",
     "alergia": 4,
-    "espesura": 5,
+    "espessura": 5,
     "lisura": 7,
     "oleosidade": 4,
     "olfato": 6,
@@ -368,7 +368,7 @@
   {
     "nome": "Bulldog Inglês",
     "alergia": 5,
-    "espesura": 5,
+    "espessura": 5,
     "lisura": 5,
     "oleosidade": 7,
     "olfato": 6,
@@ -378,7 +378,7 @@
   {
     "nome": "Bullmastiff",
     "alergia": 5,
-    "espesura": 6,
+    "espessura": 6,
     "lisura": 5,
     "oleosidade": 6,
     "olfato": 8,
@@ -388,7 +388,7 @@
   {
     "nome": "Bully Kutta",
     "alergia": 5,
-    "espesura": 4,
+    "espessura": 4,
     "lisura": 4,
     "oleosidade": 7,
     "olfato": 7,
@@ -399,7 +399,7 @@
   {
     "nome": "Cane Corso",
     "alergia": 5,
-    "espesura": 5,
+    "espessura": 5,
     "lisura": 4,
     "oleosidade": 6,
     "olfato": 8,
@@ -409,7 +409,7 @@
   {
     "nome": "Cavalier King Charles Spaniel",
     "alergia": 4,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 8,
     "oleosidade": 4,
     "olfato": 6,
@@ -419,7 +419,7 @@
   {
     "nome": "Chart Polski",
     "alergia": 3,
-    "espesura": 4,
+    "espessura": 4,
     "lisura": 6,
     "oleosidade": 4,
     "olfato": 7,
@@ -429,7 +429,7 @@
   {
     "nome": "Chesapeake Bay Retriever",
     "alergia": 5,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 5,
     "oleosidade": 7,
     "olfato": 8,
@@ -439,7 +439,7 @@
   {
     "nome": "Chihuahua (Pelo Curto)",
     "alergia": 3,
-    "espesura": 4,
+    "espessura": 4,
     "lisura": 7,
     "oleosidade": 4,
     "olfato": 6,
@@ -449,7 +449,7 @@
   {
     "nome": "Chihuahua (Pelo Longo)",
     "alergia": 3,
-    "espesura": 6,
+    "espessura": 6,
     "lisura": 8,
     "oleosidade": 4,
     "olfato": 6,
@@ -459,7 +459,7 @@
   {
     "nome": "Chin Japonês",
     "alergia": 4,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 8,
     "oleosidade": 4,
     "olfato": 6,
@@ -469,7 +469,7 @@
   {
     "nome": "Chow Chow",
     "alergia": 6,
-    "espesura": 9,
+    "espessura": 9,
     "lisura": 5,
     "oleosidade": 5,
     "olfato": 7,
@@ -479,7 +479,7 @@
   {
     "nome": "Clumber Spaniel",
     "alergia": 6,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 6,
     "oleosidade": 6,
     "olfato": 7,
@@ -489,7 +489,7 @@
   {
     "nome": "Cocker Spaniel Americano",
     "alergia": 5,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 9,
     "oleosidade": 6,
     "olfato": 7,
@@ -499,7 +499,7 @@
   {
     "nome": "Cocker Spaniel Inglês",
     "alergia": 4,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 8,
     "oleosidade": 6,
     "olfato": 8,
@@ -509,7 +509,7 @@
   {
     "nome": "Collie - Pelo Curto",
     "alergia": 5,
-    "espesura": 6,
+    "espessura": 6,
     "lisura": 7,
     "oleosidade": 4,
     "olfato": 7,
@@ -519,7 +519,7 @@
   {
     "nome": "Collie - Pelo Longo",
     "alergia": 5,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 8,
     "oleosidade": 4,
     "olfato": 7,
@@ -529,7 +529,7 @@
   {
     "nome": "Coton de Tuléar",
     "alergia": 2,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 9,
     "oleosidade": 3,
     "olfato": 6,
@@ -539,7 +539,7 @@
   {
     "nome": "Curly-Coated Retriever",
     "alergia": 3,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 3,
     "oleosidade": 5,
     "olfato": 8,
@@ -549,7 +549,7 @@
   {
     "nome": "Cão Camporeiro",
     "alergia": 4,
-    "espesura": 5,
+    "espessura": 5,
     "lisura": 5,
     "oleosidade": 5,
     "olfato": 8,
@@ -561,7 +561,7 @@
   {
     "nome": "Cão d'Água Espanhol",
     "alergia": 3,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 5,
     "oleosidade": 6,
     "olfato": 7,
@@ -571,7 +571,7 @@
   {
     "nome": "Cão d'Água Português",
     "alergia": 2,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 5,
     "oleosidade": 6,
     "olfato": 7,
@@ -581,7 +581,7 @@
   {
     "nome": "Cão de Castro Laboreiro",
     "alergia": 4,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 5,
     "oleosidade": 5,
     "olfato": 8,
@@ -591,7 +591,7 @@
   {
     "nome": "Cão de Crista Chinês",
     "alergia": 1,
-    "espesura": 2,
+    "espessura": 2,
     "lisura": 6,
     "oleosidade": 5,
     "olfato": 6,
@@ -601,7 +601,7 @@
   {
     "nome": "Cão de Fila de São Miguel",
     "alergia": 4,
-    "espesura": 6,
+    "espessura": 6,
     "lisura": 5,
     "oleosidade": 5,
     "olfato": 8,
@@ -612,7 +612,7 @@
   {
     "nome": "Cão de Gado Transmontano",
     "alergia": 4,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 5,
     "oleosidade": 5,
     "olfato": 7,
@@ -623,7 +623,7 @@
   {
     "nome": "Cão de Montanha dos Pirenéus",
     "alergia": 5,
-    "espesura": 9,
+    "espessura": 9,
     "lisura": 6,
     "oleosidade": 5,
     "olfato": 7,
@@ -633,7 +633,7 @@
   {
     "nome": "Cão de Pastor do Cáucaso",
     "alergia": 6,
-    "espesura": 9,
+    "espessura": 9,
     "lisura": 4,
     "oleosidade": 6,
     "olfato": 8,
@@ -643,7 +643,7 @@
   {
     "nome": "Cão de Serra da Estrela",
     "alergia": 5,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 5,
     "oleosidade": 5,
     "olfato": 7,
@@ -653,7 +653,7 @@
   {
     "nome": "Dachshund (Teckel) para Caça",
     "alergia": 3,
-    "espesura": 5,
+    "espessura": 5,
     "lisura": 6,
     "oleosidade": 5,
     "olfato": 9,
@@ -663,7 +663,7 @@
   {
     "nome": "Dachshund Anão - Pelo Curto",
     "alergia": 3,
-    "espesura": 4,
+    "espessura": 4,
     "lisura": 8,
     "oleosidade": 5,
     "olfato": 9,
@@ -673,7 +673,7 @@
   {
     "nome": "Dachshund Anão - Pelo Duro",
     "alergia": 3,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 4,
     "oleosidade": 5,
     "olfato": 9,
@@ -683,7 +683,7 @@
   {
     "nome": "Dachshund Anão - Pelo Longo",
     "alergia": 3,
-    "espesura": 6,
+    "espessura": 6,
     "lisura": 9,
     "oleosidade": 4,
     "olfato": 9,
@@ -693,7 +693,7 @@
   {
     "nome": "Dachshund Kaninchen - Pelo Curto",
     "alergia": 3,
-    "espesura": 4,
+    "espessura": 4,
     "lisura": 8,
     "oleosidade": 5,
     "olfato": 9,
@@ -703,7 +703,7 @@
   {
     "nome": "Dachshund Standard - Pelo Curto",
     "alergia": 3,
-    "espesura": 4,
+    "espessura": 4,
     "lisura": 8,
     "oleosidade": 5,
     "olfato": 9,
@@ -713,7 +713,7 @@
   {
     "nome": "Dachshund Standard - Pelo Duro",
     "alergia": 3,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 4,
     "oleosidade": 5,
     "olfato": 9,
@@ -723,7 +723,7 @@
   {
     "nome": "Dachshund Standard - Pelo Longo",
     "alergia": 3,
-    "espesura": 6,
+    "espessura": 6,
     "lisura": 9,
     "oleosidade": 4,
     "olfato": 9,
@@ -733,7 +733,7 @@
   {
     "nome": "Doberman",
     "alergia": 4,
-    "espesura": 5,
+    "espessura": 5,
     "lisura": 7,
     "oleosidade": 5,
     "olfato": 8,
@@ -743,7 +743,7 @@
   {
     "nome": "Dobermann Brasileiro",
     "alergia": 4,
-    "espesura": 4,
+    "espessura": 4,
     "lisura": 7,
     "oleosidade": 5,
     "olfato": 8,
@@ -755,7 +755,7 @@
   {
     "nome": "Dogo Argentino",
     "alergia": 4,
-    "espesura": 4,
+    "espessura": 4,
     "lisura": 5,
     "oleosidade": 5,
     "olfato": 8,
@@ -765,7 +765,7 @@
   {
     "nome": "Dogo Guatemalteco",
     "alergia": 5,
-    "espesura": 4,
+    "espessura": 4,
     "lisura": 4,
     "oleosidade": 6,
     "olfato": 7,
@@ -776,7 +776,7 @@
   {
     "nome": "Dogue Alemão",
     "alergia": 5,
-    "espesura": 4,
+    "espessura": 4,
     "lisura": 6,
     "oleosidade": 5,
     "olfato": 7,
@@ -786,7 +786,7 @@
   {
     "nome": "Dogue Brasileiro",
     "alergia": 5,
-    "espesura": 5,
+    "espessura": 5,
     "lisura": 4,
     "oleosidade": 7,
     "olfato": 8,
@@ -796,7 +796,7 @@
   {
     "nome": "Dogue de Bordeaux",
     "alergia": 6,
-    "espesura": 4,
+    "espessura": 4,
     "lisura": 3,
     "oleosidade": 8,
     "olfato": 7,
@@ -806,7 +806,7 @@
   {
     "nome": "Drever",
     "alergia": 4,
-    "espesura": 6,
+    "espessura": 6,
     "lisura": 5,
     "oleosidade": 5,
     "olfato": 9,
@@ -816,7 +816,7 @@
   {
     "nome": "Elkhound Norueguês",
     "alergia": 5,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 5,
     "oleosidade": 5,
     "olfato": 8,
@@ -826,7 +826,7 @@
   {
     "nome": "Eurasier",
     "alergia": 4,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 6,
     "oleosidade": 4,
     "olfato": 7,
@@ -836,7 +836,7 @@
   {
     "nome": "Field Spaniel",
     "alergia": 4,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 7,
     "oleosidade": 5,
     "olfato": 8,
@@ -846,7 +846,7 @@
   {
     "nome": "Fila Brasileiro",
     "alergia": 5,
-    "espesura": 6,
+    "espessura": 6,
     "lisura": 5,
     "oleosidade": 6,
     "olfato": 9,
@@ -856,7 +856,7 @@
   {
     "nome": "Flat-Coated Retriever",
     "alergia": 4,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 7,
     "oleosidade": 5,
     "olfato": 8,
@@ -866,7 +866,7 @@
   {
     "nome": "Fox Terrier (Pelo Liso e Pelo Duro)",
     "alergia": 3,
-    "espesura": 6,
+    "espessura": 6,
     "lisura": 7,
     "oleosidade": 4,
     "olfato": 8,
@@ -876,7 +876,7 @@
   {
     "nome": "Foxhound Americano",
     "alergia": 5,
-    "espesura": 5,
+    "espessura": 5,
     "lisura": 6,
     "oleosidade": 6,
     "olfato": 10,
@@ -886,7 +886,7 @@
   {
     "nome": "Foxhound Inglês",
     "alergia": 5,
-    "espesura": 5,
+    "espessura": 5,
     "lisura": 6,
     "oleosidade": 6,
     "olfato": 10,
@@ -896,7 +896,7 @@
   {
     "nome": "Galgo Espanhol",
     "alergia": 3,
-    "espesura": 3,
+    "espessura": 3,
     "lisura": 7,
     "oleosidade": 3,
     "olfato": 7,
@@ -906,7 +906,7 @@
   {
     "nome": "Galgo Italiano",
     "alergia": 1,
-    "espesura": 2,
+    "espessura": 2,
     "lisura": 9,
     "oleosidade": 2,
     "olfato": 5,
@@ -916,7 +916,7 @@
   {
     "nome": "Golden Retriever",
     "alergia": 4,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 8,
     "oleosidade": 5,
     "olfato": 8,
@@ -926,7 +926,7 @@
   {
     "nome": "Grande Basset Griffon Vendéen",
     "alergia": 4,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 4,
     "oleosidade": 5,
     "olfato": 9,
@@ -936,7 +936,7 @@
   {
     "nome": "Grande Boiadeiro Suíço",
     "alergia": 5,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 6,
     "oleosidade": 5,
     "olfato": 7,
@@ -946,7 +946,7 @@
   {
     "nome": "Greyhound",
     "alergia": 2,
-    "espesura": 3,
+    "espessura": 3,
     "lisura": 8,
     "oleosidade": 3,
     "olfato": 6,
@@ -956,7 +956,7 @@
   {
     "nome": "Griffon de Bruxelas",
     "alergia": 3,
-    "espesura": 6,
+    "espessura": 6,
     "lisura": 4,
     "oleosidade": 5,
     "olfato": 7,
@@ -966,7 +966,7 @@
   {
     "nome": "Hamiltonstövare",
     "alergia": 5,
-    "espesura": 6,
+    "espessura": 6,
     "lisura": 6,
     "oleosidade": 5,
     "olfato": 9,
@@ -976,7 +976,7 @@
   {
     "nome": "Havanês",
     "alergia": 2,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 9,
     "oleosidade": 3,
     "olfato": 6,
@@ -986,7 +986,7 @@
   {
     "nome": "Hovawart",
     "alergia": 4,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 6,
     "oleosidade": 5,
     "olfato": 8,
@@ -996,7 +996,7 @@
   {
     "nome": "Husky Siberiano",
     "alergia": 5,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 6,
     "oleosidade": 4,
     "olfato": 8,
@@ -1006,7 +1006,7 @@
   {
     "nome": "Jack Russell Terrier",
     "alergia": 3,
-    "espesura": 5,
+    "espessura": 5,
     "lisura": 6,
     "oleosidade": 4,
     "olfato": 8,
@@ -1016,7 +1016,7 @@
   {
     "nome": "Keeshond",
     "alergia": 5,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 7,
     "oleosidade": 4,
     "olfato": 7,
@@ -1026,7 +1026,7 @@
   {
     "nome": "Kelpie Australiano",
     "alergia": 3,
-    "espesura": 5,
+    "espessura": 5,
     "lisura": 6,
     "oleosidade": 4,
     "olfato": 8,
@@ -1036,7 +1036,7 @@
   {
     "nome": "King Charles Spaniel",
     "alergia": 5,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 8,
     "oleosidade": 5,
     "olfato": 6,
@@ -1046,7 +1046,7 @@
   {
     "nome": "Kromfohrländer",
     "alergia": 3,
-    "espesura": 6,
+    "espessura": 6,
     "lisura": 7,
     "oleosidade": 4,
     "olfato": 6,
@@ -1056,7 +1056,7 @@
   {
     "nome": "Labrador Retriever",
     "alergia": 3,
-    "espesura": 6,
+    "espessura": 6,
     "lisura": 8,
     "oleosidade": 5,
     "olfato": 9,
@@ -1066,7 +1066,7 @@
   {
     "nome": "Landseer",
     "alergia": 6,
-    "espesura": 9,
+    "espessura": 9,
     "lisura": 6,
     "oleosidade": 6,
     "olfato": 7,
@@ -1076,7 +1076,7 @@
   {
     "nome": "Leonberger",
     "alergia": 6,
-    "espesura": 9,
+    "espessura": 9,
     "lisura": 6,
     "oleosidade": 6,
     "olfato": 7,
@@ -1086,7 +1086,7 @@
   {
     "nome": "Lhasa Apso",
     "alergia": 3,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 8,
     "oleosidade": 5,
     "olfato": 6,
@@ -1096,7 +1096,7 @@
   {
     "nome": "Malamute do Alasca",
     "alergia": 6,
-    "espesura": 9,
+    "espessura": 9,
     "lisura": 5,
     "oleosidade": 4,
     "olfato": 8,
@@ -1106,7 +1106,7 @@
   {
     "nome": "Maltês",
     "alergia": 2,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 9,
     "oleosidade": 3,
     "olfato": 6,
@@ -1116,7 +1116,7 @@
   {
     "nome": "Mastiff Inglês",
     "alergia": 5,
-    "espesura": 6,
+    "espessura": 6,
     "lisura": 5,
     "oleosidade": 6,
     "olfato": 7,
@@ -1126,7 +1126,7 @@
   {
     "nome": "Mastim Napolitano",
     "alergia": 6,
-    "espesura": 5,
+    "espessura": 5,
     "lisura": 3,
     "oleosidade": 8,
     "olfato": 7,
@@ -1136,7 +1136,7 @@
   {
     "nome": "Mastim Tibetano",
     "alergia": 6,
-    "espesura": 9,
+    "espessura": 9,
     "lisura": 5,
     "oleosidade": 6,
     "olfato": 7,
@@ -1146,7 +1146,7 @@
   {
     "nome": "Ovelheiro Gaúcho",
     "alergia": 3,
-    "espesura": 6,
+    "espessura": 6,
     "lisura": 5,
     "oleosidade": 5,
     "olfato": 8,
@@ -1156,7 +1156,7 @@
   {
     "nome": "Pastor Alemão",
     "alergia": 6,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 5,
     "oleosidade": 6,
     "olfato": 9,
@@ -1166,7 +1166,7 @@
   {
     "nome": "Pastor Belga - Groenendael",
     "alergia": 5,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 7,
     "oleosidade": 5,
     "olfato": 8,
@@ -1176,7 +1176,7 @@
   {
     "nome": "Pastor Belga - Laekenois",
     "alergia": 4,
-    "espesura": 6,
+    "espessura": 6,
     "lisura": 4,
     "oleosidade": 5,
     "olfato": 8,
@@ -1186,7 +1186,7 @@
   {
     "nome": "Pastor Belga - Malinois",
     "alergia": 4,
-    "espesura": 5,
+    "espessura": 5,
     "lisura": 6,
     "oleosidade": 5,
     "olfato": 9,
@@ -1196,7 +1196,7 @@
   {
     "nome": "Pastor Belga - Tervuren",
     "alergia": 5,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 7,
     "oleosidade": 5,
     "olfato": 8,
@@ -1206,7 +1206,7 @@
   {
     "nome": "Pastor Croata",
     "alergia": 4,
-    "espesura": 6,
+    "espessura": 6,
     "lisura": 6,
     "oleosidade": 4,
     "olfato": 7,
@@ -1216,7 +1216,7 @@
   {
     "nome": "Pastor da Anatólia (Kangal)",
     "alergia": 5,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 5,
     "oleosidade": 6,
     "olfato": 8,
@@ -1226,7 +1226,7 @@
   {
     "nome": "Pastor da Catalunha",
     "alergia": 4,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 6,
     "oleosidade": 4,
     "olfato": 7,
@@ -1236,7 +1236,7 @@
   {
     "nome": "Pastor da Hungria - Mudi",
     "alergia": 3,
-    "espesura": 6,
+    "espessura": 6,
     "lisura": 5,
     "oleosidade": 4,
     "olfato": 8,
@@ -1246,7 +1246,7 @@
   {
     "nome": "Pastor da Hungria - Puli",
     "alergia": 4,
-    "espesura": 9,
+    "espessura": 9,
     "lisura": 3,
     "oleosidade": 5,
     "olfato": 7,
@@ -1256,7 +1256,7 @@
   {
     "nome": "Pastor da Hungria - Pumi",
     "alergia": 4,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 5,
     "oleosidade": 5,
     "olfato": 7,
@@ -1266,7 +1266,7 @@
   {
     "nome": "Pastor da Mantiqueira",
     "alergia": 4,
-    "espesura": 6,
+    "espessura": 6,
     "lisura": 5,
     "oleosidade": 5,
     "olfato": 8,
@@ -1278,7 +1278,7 @@
   {
     "nome": "Pastor da Polônia",
     "alergia": 5,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 6,
     "oleosidade": 5,
     "olfato": 7,
@@ -1288,7 +1288,7 @@
   {
     "nome": "Pastor da Rússia Meridional",
     "alergia": 6,
-    "espesura": 9,
+    "espessura": 9,
     "lisura": 4,
     "oleosidade": 5,
     "olfato": 7,
@@ -1298,7 +1298,7 @@
   {
     "nome": "Pastor da Tchecoslováquia (Wolfdog)",
     "alergia": 5,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 5,
     "oleosidade": 5,
     "olfato": 9,
@@ -1308,7 +1308,7 @@
   {
     "nome": "Pastor da Ásia Central",
     "alergia": 6,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 4,
     "oleosidade": 6,
     "olfato": 8,
@@ -1318,7 +1318,7 @@
   {
     "nome": "Pastor dos Pirenéus",
     "alergia": 4,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 6,
     "oleosidade": 4,
     "olfato": 7,
@@ -1328,7 +1328,7 @@
   {
     "nome": "Pastor Holandês - Pelo Curto",
     "alergia": 4,
-    "espesura": 5,
+    "espessura": 5,
     "lisura": 6,
     "oleosidade": 5,
     "olfato": 8,
@@ -1338,7 +1338,7 @@
   {
     "nome": "Pastor Holandês - Pelo Duro",
     "alergia": 4,
-    "espesura": 6,
+    "espessura": 6,
     "lisura": 5,
     "oleosidade": 5,
     "olfato": 8,
@@ -1348,7 +1348,7 @@
   {
     "nome": "Pastor Holandês - Pelo Longo",
     "alergia": 5,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 7,
     "oleosidade": 5,
     "olfato": 8,
@@ -1358,7 +1358,7 @@
   {
     "nome": "Pequinês",
     "alergia": 5,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 7,
     "oleosidade": 5,
     "olfato": 6,
@@ -1368,7 +1368,7 @@
   {
     "nome": "Petit Basset Griffon Vendéen",
     "alergia": 4,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 4,
     "oleosidade": 5,
     "olfato": 9,
@@ -1378,7 +1378,7 @@
   {
     "nome": "Pinscher Miniatura",
     "alergia": 3,
-    "espesura": 4,
+    "espessura": 4,
     "lisura": 7,
     "oleosidade": 4,
     "olfato": 6,
@@ -1388,7 +1388,7 @@
   {
     "nome": "Pinscher Serrano",
     "alergia": 3,
-    "espesura": 4,
+    "espessura": 4,
     "lisura": 6,
     "oleosidade": 4,
     "olfato": 7,
@@ -1400,7 +1400,7 @@
   {
     "nome": "Podengo Brasileiro",
     "alergia": 3,
-    "espesura": 4,
+    "espessura": 4,
     "lisura": 6,
     "oleosidade": 4,
     "olfato": 8,
@@ -1412,7 +1412,7 @@
   {
     "nome": "Podengo Português (Médio)",
     "alergia": 3,
-    "espesura": 5,
+    "espessura": 5,
     "lisura": 5,
     "oleosidade": 4,
     "olfato": 8,
@@ -1422,7 +1422,7 @@
   {
     "nome": "Podengo Português (Pequeno)",
     "alergia": 2,
-    "espesura": 4,
+    "espessura": 4,
     "lisura": 6,
     "oleosidade": 3,
     "olfato": 8,
@@ -1432,7 +1432,7 @@
   {
     "nome": "Pointer Inglês",
     "alergia": 4,
-    "espesura": 4,
+    "espessura": 4,
     "lisura": 7,
     "oleosidade": 4,
     "olfato": 9,
@@ -1442,7 +1442,7 @@
   {
     "nome": "Poodle (Anão)",
     "alergia": 2,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 9,
     "oleosidade": 3,
     "olfato": 7,
@@ -1452,7 +1452,7 @@
   {
     "nome": "Poodle (Médio)",
     "alergia": 2,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 9,
     "oleosidade": 3,
     "olfato": 7,
@@ -1462,7 +1462,7 @@
   {
     "nome": "Poodle (Standard)",
     "alergia": 2,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 9,
     "oleosidade": 3,
     "olfato": 7,
@@ -1472,7 +1472,7 @@
   {
     "nome": "Poodle (Toy)",
     "alergia": 2,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 9,
     "oleosidade": 3,
     "olfato": 7,
@@ -1482,7 +1482,7 @@
   {
     "nome": "Pug",
     "alergia": 5,
-    "espesura": 5,
+    "espessura": 5,
     "lisura": 6,
     "oleosidade": 6,
     "olfato": 7,
@@ -1492,7 +1492,7 @@
   {
     "nome": "Rottweiler",
     "alergia": 5,
-    "espesura": 6,
+    "espessura": 6,
     "lisura": 5,
     "oleosidade": 6,
     "olfato": 8,
@@ -1502,7 +1502,7 @@
   {
     "nome": "Sabujo Brasileiro",
     "alergia": 4,
-    "espesura": 5,
+    "espessura": 5,
     "lisura": 6,
     "oleosidade": 5,
     "olfato": 9,
@@ -1512,7 +1512,7 @@
   {
     "nome": "Saluki",
     "alergia": 3,
-    "espesura": 4,
+    "espessura": 4,
     "lisura": 8,
     "oleosidade": 3,
     "olfato": 7,
@@ -1522,7 +1522,7 @@
   {
     "nome": "Samoyeda",
     "alergia": 5,
-    "espesura": 9,
+    "espessura": 9,
     "lisura": 7,
     "oleosidade": 3,
     "olfato": 7,
@@ -1532,7 +1532,7 @@
   {
     "nome": "Schillerstövare",
     "alergia": 5,
-    "espesura": 6,
+    "espessura": 6,
     "lisura": 6,
     "oleosidade": 5,
     "olfato": 9,
@@ -1542,7 +1542,7 @@
   {
     "nome": "Schnauzer Gigante",
     "alergia": 5,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 5,
     "oleosidade": 6,
     "olfato": 8,
@@ -1552,7 +1552,7 @@
   {
     "nome": "Schnauzer Miniatura",
     "alergia": 3,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 5,
     "oleosidade": 5,
     "olfato": 7,
@@ -1562,7 +1562,7 @@
   {
     "nome": "Schnauzer Standard",
     "alergia": 4,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 5,
     "oleosidade": 5,
     "olfato": 8,
@@ -1572,7 +1572,7 @@
   {
     "nome": "Scottish Terrier",
     "alergia": 3,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 4,
     "oleosidade": 5,
     "olfato": 7,
@@ -1582,7 +1582,7 @@
   {
     "nome": "Setter Inglês",
     "alergia": 5,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 8,
     "oleosidade": 4,
     "olfato": 9,
@@ -1592,7 +1592,7 @@
   {
     "nome": "Setter Irlandês",
     "alergia": 5,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 8,
     "oleosidade": 4,
     "olfato": 9,
@@ -1602,7 +1602,7 @@
   {
     "nome": "Setter Irlandês Vermelho",
     "alergia": 5,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 8,
     "oleosidade": 4,
     "olfato": 9,
@@ -1612,7 +1612,7 @@
   {
     "nome": "Shetland Sheepdog (Sheltie)",
     "alergia": 4,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 8,
     "oleosidade": 3,
     "olfato": 7,
@@ -1622,7 +1622,7 @@
   {
     "nome": "Shiba Inu",
     "alergia": 5,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 6,
     "oleosidade": 4,
     "olfato": 8,
@@ -1632,7 +1632,7 @@
   {
     "nome": "Shih Tzu",
     "alergia": 3,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 9,
     "oleosidade": 4,
     "olfato": 6,
@@ -1642,7 +1642,7 @@
   {
     "nome": "Sloughi",
     "alergia": 2,
-    "espesura": 3,
+    "espessura": 3,
     "lisura": 7,
     "oleosidade": 3,
     "olfato": 7,
@@ -1652,7 +1652,7 @@
   {
     "nome": "Spitz Alemão (Lulu da Pomerânia)",
     "alergia": 4,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 7,
     "oleosidade": 4,
     "olfato": 6,
@@ -1662,7 +1662,7 @@
   {
     "nome": "Spitz Alemão Anão (Lulu da Pomerânia)",
     "alergia": 4,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 7,
     "oleosidade": 4,
     "olfato": 6,
@@ -1672,7 +1672,7 @@
   {
     "nome": "Spitz Finlandês",
     "alergia": 4,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 6,
     "oleosidade": 4,
     "olfato": 8,
@@ -1682,7 +1682,7 @@
   {
     "nome": "Spitz Japonês",
     "alergia": 3,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 8,
     "oleosidade": 3,
     "olfato": 6,
@@ -1692,7 +1692,7 @@
   {
     "nome": "Springer Spaniel Inglês",
     "alergia": 4,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 7,
     "oleosidade": 5,
     "olfato": 8,
@@ -1702,7 +1702,7 @@
   {
     "nome": "Staffordshire Bull Terrier",
     "alergia": 4,
-    "espesura": 4,
+    "espessura": 4,
     "lisura": 5,
     "oleosidade": 5,
     "olfato": 7,
@@ -1712,7 +1712,7 @@
   {
     "nome": "Sussex Spaniel",
     "alergia": 5,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 7,
     "oleosidade": 6,
     "olfato": 7,
@@ -1722,7 +1722,7 @@
   {
     "nome": "São Bernardo",
     "alergia": 6,
-    "espesura": 8,
+    "espessura": 8,
     "lisura": 5,
     "oleosidade": 6,
     "olfato": 7,
@@ -1732,7 +1732,7 @@
   {
     "nome": "Terranova",
     "alergia": 6,
-    "espesura": 9,
+    "espessura": 9,
     "lisura": 6,
     "oleosidade": 6,
     "olfato": 7,
@@ -1742,7 +1742,7 @@
   {
     "nome": "Terrier Brasileiro",
     "alergia": 2,
-    "espesura": 5,
+    "espessura": 5,
     "lisura": 6,
     "oleosidade": 4,
     "olfato": 7,
@@ -1752,7 +1752,7 @@
   {
     "nome": "Tosa Inu",
     "alergia": 5,
-    "espesura": 6,
+    "espessura": 6,
     "lisura": 5,
     "oleosidade": 6,
     "olfato": 7,
@@ -1762,7 +1762,7 @@
   {
     "nome": "Veadeiro Catarinense",
     "alergia": 3,
-    "espesura": 5,
+    "espessura": 5,
     "lisura": 6,
     "oleosidade": 4,
     "olfato": 9,
@@ -1774,7 +1774,7 @@
   {
     "nome": "Veadeiro Pampeano",
     "alergia": 3,
-    "espesura": 5,
+    "espessura": 5,
     "lisura": 6,
     "oleosidade": 4,
     "olfato": 9,
@@ -1784,7 +1784,7 @@
   {
     "nome": "Weimaraner",
     "alergia": 4,
-    "espesura": 5,
+    "espessura": 5,
     "lisura": 7,
     "oleosidade": 5,
     "olfato": 9,
@@ -1794,7 +1794,7 @@
   {
     "nome": "Welsh Corgi Cardigan",
     "alergia": 4,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 6,
     "oleosidade": 5,
     "olfato": 7,
@@ -1804,7 +1804,7 @@
   {
     "nome": "Welsh Corgi Pembroke",
     "alergia": 4,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 6,
     "oleosidade": 5,
     "olfato": 7,
@@ -1814,7 +1814,7 @@
   {
     "nome": "West Highland White Terrier",
     "alergia": 3,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 6,
     "oleosidade": 4,
     "olfato": 7,
@@ -1824,7 +1824,7 @@
   {
     "nome": "Whippet",
     "alergia": 2,
-    "espesura": 3,
+    "espessura": 3,
     "lisura": 8,
     "oleosidade": 3,
     "olfato": 6,
@@ -1834,7 +1834,7 @@
   {
     "nome": "Yorkshire Terrier",
     "alergia": 2,
-    "espesura": 7,
+    "espessura": 7,
     "lisura": 9,
     "oleosidade": 3,
     "olfato": 6,
