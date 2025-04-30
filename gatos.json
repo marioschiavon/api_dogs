@@ -60,6 +60,18 @@
     "quantidade_pelo": 8
   },
   {
+    "nome": "Balinese",
+    "pelagem": "Longa e sedosa",
+    "porte": "Médio",
+    "alergia": 4,
+    "espessura": 4,
+    "lisura": 8,
+    "oleosidade": 4,
+    "olfato": 7,
+    "producao_sebacea": 4,
+    "quantidade_pelo": 6
+  },
+  {
     "nome": "Bengal",
     "pelagem": "Curta e densa",
     "porte": "Médio",
@@ -96,6 +108,18 @@
     "quantidade_pelo": 4
   },
   {
+    "nome": "Brazilian Shorthair (Pelo Curto Brasileiro)",
+    "pelagem": "Curta e densa",
+    "porte": "Médio",
+    "alergia": 5,
+    "espessura": 5,
+    "lisura": 7,
+    "oleosidade": 4,
+    "olfato": 7,
+    "producao_sebacea": 4,
+    "quantidade_pelo": 5
+  },
+  {
     "nome": "British Shorthair",
     "pelagem": "Curta e densa",
     "porte": "Médio",
@@ -105,6 +129,18 @@
     "oleosidade": 4,
     "olfato": 5,
     "producao_sebacea": 4,
+    "quantidade_pelo": 6
+  },
+  {
+    "nome": "Chantilly-Tiffany",
+    "pelagem": "Semilonga e sedosa",
+    "porte": "Médio",
+    "alergia": 6,
+    "espessura": 5,
+    "lisura": 7,
+    "oleosidade": 5,
+    "olfato": 6,
+    "producao_sebacea": 5,
     "quantidade_pelo": 6
   },
   {
@@ -118,6 +154,18 @@
     "olfato": 5,
     "producao_sebacea": 4,
     "quantidade_pelo": 7
+  },
+  {
+    "nome": "Colorpoint Shorthair",
+    "pelagem": "Curta e brilhante",
+    "porte": "Médio",
+    "alergia": 3,
+    "espessura": 3,
+    "lisura": 9,
+    "oleosidade": 3,
+    "olfato": 7,
+    "producao_sebacea": 3,
+    "quantidade_pelo": 3
   },
   {
     "nome": "Curl Americano",
@@ -156,6 +204,18 @@
     "quantidade_pelo": 3
   },
   {
+    "nome": "European Shorthair",
+    "pelagem": "Curta e densa",
+    "porte": "Médio",
+    "alergia": 5,
+    "espessura": 5,
+    "lisura": 6,
+    "oleosidade": 4,
+    "olfato": 6,
+    "producao_sebacea": 4,
+    "quantidade_pelo": 5
+  },
+  {
     "nome": "Exótico de Pelo Curto",
     "pelagem": "Curta e densa",
     "porte": "Médio",
@@ -180,6 +240,18 @@
     "quantidade_pelo": 3
   },
   {
+    "nome": "Highlander",
+    "pelagem": "Curta ou longa",
+    "porte": "Grande",
+    "alergia": 6,
+    "espessura": 6,
+    "lisura": 5,
+    "oleosidade": 5,
+    "olfato": 7,
+    "producao_sebacea": 5,
+    "quantidade_pelo": 6
+  },
+  {
     "nome": "Himalaio",
     "pelagem": "Longa e espessa",
     "porte": "Médio",
@@ -192,6 +264,18 @@
     "quantidade_pelo": 9
   },
   {
+    "nome": "Japanese Bobtail",
+    "pelagem": "Curta ou longa",
+    "porte": "Médio",
+    "alergia": 4,
+    "espessura": 4,
+    "lisura": 6,
+    "oleosidade": 4,
+    "olfato": 6,
+    "producao_sebacea": 4,
+    "quantidade_pelo": 5
+  },
+  {
     "nome": "Korat",
     "pelagem": "Curta e brilhante",
     "porte": "Médio",
@@ -202,6 +286,18 @@
     "olfato": 6,
     "producao_sebacea": 3,
     "quantidade_pelo": 3
+  },
+  {
+    "nome": "Kurilian Bobtail",
+    "pelagem": "Curta ou semilonga",
+    "porte": "Médio a grande",
+    "alergia": 6,
+    "espessura": 6,
+    "lisura": 5,
+    "oleosidade": 5,
+    "olfato": 6,
+    "producao_sebacea": 5,
+    "quantidade_pelo": 6
   },
   {
     "nome": "LaPerm",
@@ -336,6 +432,18 @@
     "quantidade_pelo": 1
   },
   {
+    "nome": "Peterbald",
+    "pelagem": "Sem pelo ou muito fina",
+    "porte": "Médio",
+    "alergia": 2,
+    "espessura": 1,
+    "lisura": 9,
+    "oleosidade": 7,
+    "olfato": 8,
+    "producao_sebacea": 7,
+    "quantidade_pelo": 1
+  },
+  {
     "nome": "Ragdoll",
     "pelagem": "Longa e macia",
     "porte": "Grande",
@@ -416,6 +524,18 @@
     "lisura": 7,
     "oleosidade": 2,
     "olfato": 7,
+    "producao_sebacea": 3,
+    "quantidade_pelo": 3
+  },
+  {
+    "nome": "Singapura",
+    "pelagem": "Curta e fina",
+    "porte": "Pequeno",
+    "alergia": 4,
+    "espessura": 3,
+    "lisura": 8,
+    "oleosidade": 3,
+    "olfato": 6,
     "producao_sebacea": 3,
     "quantidade_pelo": 3
   },
