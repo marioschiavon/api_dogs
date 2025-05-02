@@ -7,7 +7,8 @@
     "oleosidade": 4,
     "olfato": 6,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 6
+    "quantidade_de_pelo": 6,
+    "sensibilidade": 5
   },
   {
     "nome": "Afghan Hound",
@@ -17,7 +18,8 @@
     "oleosidade": 4,
     "olfato": 6,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 9
+    "quantidade_de_pelo": 9,
+    "sensibilidade": 6
   },
   {
     "nome": "Airedale Terrier",
@@ -27,7 +29,8 @@
     "oleosidade": 5,
     "olfato": 8,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 5
   },
   {
     "nome": "Akita",
@@ -37,7 +40,8 @@
     "oleosidade": 5,
     "olfato": 8,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 4
   },
   {
     "nome": "Alano Espanhol",
@@ -48,7 +52,8 @@
     "olfato": 7,
     "producao_sebacea": 6,
     "quantidade_de_pelo": 4,
-    "status": "Reconhecido pela RSCE (Espanha)"
+    "status": "Reconhecido pela RSCE (Espanha)",
+    "sensibilidade": 5
   },
   {
     "nome": "American Bully",
@@ -59,7 +64,8 @@
     "olfato": 7,
     "producao_sebacea": 6,
     "quantidade_de_pelo": 4,
-    "status": "Reconhecido pela ABKC (American Bully Kennel Club)"
+    "status": "Reconhecido pela ABKC (American Bully Kennel Club)",
+    "sensibilidade": 5
   },
   {
     "nome": "Australian Cattle Dog (Boiadeiro Australiano)",
@@ -69,7 +75,8 @@
     "oleosidade": 5,
     "olfato": 8,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 6
+    "quantidade_de_pelo": 6,
+    "sensibilidade": 6
   },
   {
     "nome": "Azawakh",
@@ -79,7 +86,8 @@
     "oleosidade": 3,
     "olfato": 7,
     "producao_sebacea": 3,
-    "quantidade_de_pelo": 2
+    "quantidade_de_pelo": 2,
+    "sensibilidade": 7
   },
   {
     "nome": "Barbudinho",
@@ -91,7 +99,8 @@
     "producao_sebacea": 5,
     "quantidade_de_pelo": 6,
     "origem": "Nordeste",
-    "status": "Variante regional"
+    "status": "Variante regional",
+    "sensibilidade": 6
   },
   {
     "nome": "Basenji",
@@ -101,7 +110,8 @@
     "oleosidade": 4,
     "olfato": 8,
     "producao_sebacea": 3,
-    "quantidade_de_pelo": 3
+    "quantidade_de_pelo": 3,
+    "sensibilidade": 7
   },
   {
     "nome": "Basset Hound",
@@ -111,7 +121,8 @@
     "oleosidade": 7,
     "olfato": 10,
     "producao_sebacea": 7,
-    "quantidade_de_pelo": 5
+    "quantidade_de_pelo": 5,
+    "sensibilidade": 5
   },
   {
     "nome": "Beagle",
@@ -121,7 +132,8 @@
     "oleosidade": 5,
     "olfato": 10,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 5
+    "quantidade_de_pelo": 5,
+    "sensibilidade": 6
   },
   {
     "nome": "Bearded Collie",
@@ -131,7 +143,8 @@
     "oleosidade": 4,
     "olfato": 7,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 5
   },
   {
     "nome": "Beauceron",
@@ -141,7 +154,8 @@
     "oleosidade": 6,
     "olfato": 8,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 5
   },
   {
     "nome": "Bichon Frisé",
@@ -151,7 +165,8 @@
     "oleosidade": 3,
     "olfato": 6,
     "producao_sebacea": 4,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 7
   },
   {
     "nome": "Bloodhound",
@@ -161,7 +176,8 @@
     "oleosidade": 7,
     "olfato": 10,
     "producao_sebacea": 8,
-    "quantidade_de_pelo": 6
+    "quantidade_de_pelo": 6,
+    "sensibilidade": 4
   },
   {
     "nome": "Boiadeiro de Appenzell",
@@ -171,7 +187,8 @@
     "oleosidade": 5,
     "olfato": 7,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 5
   },
   {
     "nome": "Boiadeiro de Berna",
@@ -181,7 +198,8 @@
     "oleosidade": 5,
     "olfato": 7,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 5
   },
   {
     "nome": "Boiadeiro de Entlebuch",
@@ -191,7 +209,8 @@
     "oleosidade": 5,
     "olfato": 7,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 5
   },
   {
     "nome": "Bolonês",
@@ -201,7 +220,8 @@
     "oleosidade": 3,
     "olfato": 6,
     "producao_sebacea": 4,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 7
   },
   {
     "nome": "Border Collie",
@@ -211,7 +231,8 @@
     "oleosidade": 4,
     "olfato": 8,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 6
   },
   {
     "nome": "Borzoi",
@@ -221,7 +242,8 @@
     "oleosidade": 4,
     "olfato": 7,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 5
   },
   {
     "nome": "Boston Terrier",
@@ -231,7 +253,8 @@
     "oleosidade": 5,
     "olfato": 7,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 4
+    "quantidade_de_pelo": 4,
+    "sensibilidade": 6
   },
   {
     "nome": "Boxer",
@@ -241,7 +264,8 @@
     "oleosidade": 5,
     "olfato": 7,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 5
+    "quantidade_de_pelo": 5,
+    "sensibilidade": 6
   },
   {
     "nome": "Braco Alemão (Kurzhaar)",
@@ -251,7 +275,8 @@
     "oleosidade": 5,
     "olfato": 9,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 5
+    "quantidade_de_pelo": 5,
+    "sensibilidade": 6
   },
   {
     "nome": "Braco de Ariege",
@@ -261,7 +286,8 @@
     "oleosidade": 5,
     "olfato": 9,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 5
+    "quantidade_de_pelo": 5,
+    "sensibilidade": 6
   },
   {
     "nome": "Braco de Weimar (Weimaraner de Pelo Longo)",
@@ -271,7 +297,8 @@
     "oleosidade": 5,
     "olfato": 9,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 6
+    "quantidade_de_pelo": 6,
+    "sensibilidade": 6
   },
   {
     "nome": "Braco Eslovaco",
@@ -281,7 +308,8 @@
     "oleosidade": 5,
     "olfato": 9,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 5
+    "quantidade_de_pelo": 5,
+    "sensibilidade": 6
   },
   {
     "nome": "Braco Francês (Tipo Gascão)",
@@ -291,7 +319,8 @@
     "oleosidade": 5,
     "olfato": 9,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 5
+    "quantidade_de_pelo": 5,
+    "sensibilidade": 6
   },
   {
     "nome": "Braco Francês (Tipo Pirineus)",
@@ -301,7 +330,8 @@
     "oleosidade": 5,
     "olfato": 9,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 5
+    "quantidade_de_pelo": 5,
+    "sensibilidade": 6
   },
   {
     "nome": "Braco Húngaro (Vizsla)",
@@ -311,7 +341,8 @@
     "oleosidade": 4,
     "olfato": 9,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 4
+    "quantidade_de_pelo": 4,
+    "sensibilidade": 7
   },
   {
     "nome": "Braco Italiano",
@@ -321,7 +352,8 @@
     "oleosidade": 4,
     "olfato": 9,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 4
+    "quantidade_de_pelo": 4,
+    "sensibilidade": 7
   },
   {
     "nome": "Buldogue Campeiro",
@@ -331,7 +363,8 @@
     "oleosidade": 7,
     "olfato": 7,
     "producao_sebacea": 7,
-    "quantidade_de_pelo": 5
+    "quantidade_de_pelo": 5,
+    "sensibilidade": 5
   },
   {
     "nome": "Buldogue Serrano",
@@ -343,7 +376,8 @@
     "producao_sebacea": 6,
     "quantidade_de_pelo": 5,
     "origem": "Serra Gaúcha (RS/SC)",
-    "status": "Em estudo pela CBKC"
+    "status": "Em estudo pela CBKC",
+    "sensibilidade": 5
   },
   {
     "nome": "Bull Terrier",
@@ -353,7 +387,8 @@
     "oleosidade": 5,
     "olfato": 7,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 3
+    "quantidade_de_pelo": 3,
+    "sensibilidade": 6
   },
   {
     "nome": "Bulldog Francês",
@@ -363,7 +398,8 @@
     "oleosidade": 4,
     "olfato": 6,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 4
+    "quantidade_de_pelo": 4,
+    "sensibilidade": 6
   },
   {
     "nome": "Bulldog Inglês",
@@ -373,7 +409,8 @@
     "oleosidade": 7,
     "olfato": 6,
     "producao_sebacea": 7,
-    "quantidade_de_pelo": 5
+    "quantidade_de_pelo": 5,
+    "sensibilidade": 5
   },
   {
     "nome": "Bullmastiff",
@@ -383,7 +420,8 @@
     "oleosidade": 6,
     "olfato": 8,
     "producao_sebacea": 7,
-    "quantidade_de_pelo": 6
+    "quantidade_de_pelo": 6,
+    "sensibilidade": 5
   },
   {
     "nome": "Bully Kutta",
@@ -394,7 +432,8 @@
     "olfato": 7,
     "producao_sebacea": 7,
     "quantidade_de_pelo": 4,
-    "status": "Não reconhecido"
+    "status": "Não reconhecido",
+    "sensibilidade": 4
   },
   {
     "nome": "Cane Corso",
@@ -404,7 +443,8 @@
     "oleosidade": 6,
     "olfato": 8,
     "producao_sebacea": 7,
-    "quantidade_de_pelo": 5
+    "quantidade_de_pelo": 5,
+    "sensibilidade": 5
   },
   {
     "nome": "Cavalier King Charles Spaniel",
@@ -414,7 +454,8 @@
     "oleosidade": 4,
     "olfato": 6,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 7
   },
   {
     "nome": "Chart Polski",
@@ -424,7 +465,8 @@
     "oleosidade": 4,
     "olfato": 7,
     "producao_sebacea": 4,
-    "quantidade_de_pelo": 4
+    "quantidade_de_pelo": 4,
+    "sensibilidade": 7
   },
   {
     "nome": "Chesapeake Bay Retriever",
@@ -434,7 +476,8 @@
     "oleosidade": 7,
     "olfato": 8,
     "producao_sebacea": 7,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 5
   },
   {
     "nome": "Chihuahua (Pelo Curto)",
@@ -444,7 +487,8 @@
     "oleosidade": 4,
     "olfato": 6,
     "producao_sebacea": 4,
-    "quantidade_de_pelo": 4
+    "quantidade_de_pelo": 4,
+    "sensibilidade": 7
   },
   {
     "nome": "Chihuahua (Pelo Longo)",
@@ -454,7 +498,8 @@
     "oleosidade": 4,
     "olfato": 6,
     "producao_sebacea": 4,
-    "quantidade_de_pelo": 6
+    "quantidade_de_pelo": 6,
+    "sensibilidade": 7
   },
   {
     "nome": "Chin Japonês",
@@ -464,7 +509,8 @@
     "oleosidade": 4,
     "olfato": 6,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 7
   },
   {
     "nome": "Chow Chow",
@@ -474,7 +520,8 @@
     "oleosidade": 5,
     "olfato": 7,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 9
+    "quantidade_de_pelo": 9,
+    "sensibilidade": 4
   },
   {
     "nome": "Clumber Spaniel",
@@ -484,7 +531,8 @@
     "oleosidade": 6,
     "olfato": 7,
     "producao_sebacea": 7,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 5
   },
   {
     "nome": "Cocker Spaniel Americano",
@@ -494,7 +542,8 @@
     "oleosidade": 6,
     "olfato": 7,
     "producao_sebacea": 7,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 6
   },
   {
     "nome": "Cocker Spaniel Inglês",
@@ -504,7 +553,8 @@
     "oleosidade": 6,
     "olfato": 8,
     "producao_sebacea": 7,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 6
   },
   {
     "nome": "Collie - Pelo Curto",
@@ -514,7 +564,8 @@
     "oleosidade": 4,
     "olfato": 7,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 6
+    "quantidade_de_pelo": 6,
+    "sensibilidade": 6
   },
   {
     "nome": "Collie - Pelo Longo",
@@ -524,7 +575,8 @@
     "oleosidade": 4,
     "olfato": 7,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 9
+    "quantidade_de_pelo": 9,
+    "sensibilidade": 6
   },
   {
     "nome": "Coton de Tuléar",
@@ -534,7 +586,8 @@
     "oleosidade": 3,
     "olfato": 6,
     "producao_sebacea": 4,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 7
   },
   {
     "nome": "Curly-Coated Retriever",
@@ -544,7 +597,8 @@
     "oleosidade": 5,
     "olfato": 8,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 6
   },
   {
     "nome": "Cão Camporeiro",
@@ -556,7 +610,8 @@
     "producao_sebacea": 5,
     "quantidade_de_pelo": 5,
     "origem": "Interior do Brasil",
-    "status": "Raça natural"
+    "status": "Raça natural",
+    "sensibilidade": 6
   },
   {
     "nome": "Cão d'Água Espanhol",
@@ -566,7 +621,8 @@
     "oleosidade": 6,
     "olfato": 7,
     "producao_sebacea": 7,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 6
   },
   {
     "nome": "Cão d'Água Português",
@@ -576,7 +632,8 @@
     "oleosidade": 6,
     "olfato": 7,
     "producao_sebacea": 7,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 6
   },
   {
     "nome": "Cão de Castro Laboreiro",
@@ -586,7 +643,8 @@
     "oleosidade": 5,
     "olfato": 8,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 5
   },
   {
     "nome": "Cão de Crista Chinês",
@@ -596,7 +654,8 @@
     "oleosidade": 5,
     "olfato": 6,
     "producao_sebacea": 4,
-    "quantidade_de_pelo": 1
+    "quantidade_de_pelo": 1,
+    "sensibilidade": 8
   },
   {
     "nome": "Cão de Fila de São Miguel",
@@ -607,7 +666,8 @@
     "olfato": 8,
     "producao_sebacea": 6,
     "quantidade_de_pelo": 6,
-    "status": "Reconhecido em Portugal"
+    "status": "Reconhecido em Portugal",
+    "sensibilidade": 5
   },
   {
     "nome": "Cão de Gado Transmontano",
@@ -618,7 +678,8 @@
     "olfato": 7,
     "producao_sebacea": 6,
     "quantidade_de_pelo": 7,
-    "status": "Reconhecido em Portugal"
+    "status": "Reconhecido em Portugal",
+    "sensibilidade": 5
   },
   {
     "nome": "Cão de Montanha dos Pirenéus",
@@ -628,7 +689,8 @@
     "oleosidade": 5,
     "olfato": 7,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 9
+    "quantidade_de_pelo": 9,
+    "sensibilidade": 5
   },
   {
     "nome": "Cão de Pastor do Cáucaso",
@@ -638,7 +700,8 @@
     "oleosidade": 6,
     "olfato": 8,
     "producao_sebacea": 7,
-    "quantidade_de_pelo": 9
+    "quantidade_de_pelo": 9,
+    "sensibilidade": 4
   },
   {
     "nome": "Cão de Serra da Estrela",
@@ -648,7 +711,8 @@
     "oleosidade": 5,
     "olfato": 7,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 5
   },
   {
     "nome": "Dachshund (Teckel) para Caça",
@@ -658,7 +722,8 @@
     "oleosidade": 5,
     "olfato": 9,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 5
+    "quantidade_de_pelo": 5,
+    "sensibilidade": 6
   },
   {
     "nome": "Dachshund Anão - Pelo Curto",
@@ -668,7 +733,8 @@
     "oleosidade": 5,
     "olfato": 9,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 4
+    "quantidade_de_pelo": 4,
+    "sensibilidade": 7
   },
   {
     "nome": "Dachshund Anão - Pelo Duro",
@@ -678,7 +744,8 @@
     "oleosidade": 5,
     "olfato": 9,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 6
   },
   {
     "nome": "Dachshund Anão - Pelo Longo",
@@ -688,7 +755,8 @@
     "oleosidade": 4,
     "olfato": 9,
     "producao_sebacea": 4,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 7
   },
   {
     "nome": "Dachshund Kaninchen - Pelo Curto",
@@ -698,7 +766,8 @@
     "oleosidade": 5,
     "olfato": 9,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 4
+    "quantidade_de_pelo": 4,
+    "sensibilidade": 7
   },
   {
     "nome": "Dachshund Standard - Pelo Curto",
@@ -708,7 +777,8 @@
     "oleosidade": 5,
     "olfato": 9,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 4
+    "quantidade_de_pelo": 4,
+    "sensibilidade": 6
   },
   {
     "nome": "Dachshund Standard - Pelo Duro",
@@ -718,7 +788,8 @@
     "oleosidade": 5,
     "olfato": 9,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 6
   },
   {
     "nome": "Dachshund Standard - Pelo Longo",
@@ -728,7 +799,8 @@
     "oleosidade": 4,
     "olfato": 9,
     "producao_sebacea": 4,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 6
   },
   {
     "nome": "Doberman",
@@ -738,7 +810,8 @@
     "oleosidade": 5,
     "olfato": 8,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 5
+    "quantidade_de_pelo": 5,
+    "sensibilidade": 6
   },
   {
     "nome": "Dobermann Brasileiro",
@@ -750,7 +823,8 @@
     "producao_sebacea": 5,
     "quantidade_de_pelo": 4,
     "origem": "Variante nacional",
-    "status": "Não reconhecido"
+    "status": "Não reconhecido",
+    "sensibilidade": 6
   },
   {
     "nome": "Dogo Argentino",
@@ -760,7 +834,8 @@
     "oleosidade": 5,
     "olfato": 8,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 4
+    "quantidade_de_pelo": 4,
+    "sensibilidade": 5
   },
   {
     "nome": "Dogo Guatemalteco",
@@ -771,7 +846,8 @@
     "olfato": 7,
     "producao_sebacea": 7,
     "quantidade_de_pelo": 4,
-    "status": "Raça em desenvolvimento"
+    "status": "Raça em desenvolvimento",
+    "sensibilidade": 5
   },
   {
     "nome": "Dogue Alemão",
@@ -781,7 +857,8 @@
     "oleosidade": 5,
     "olfato": 7,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 4
+    "quantidade_de_pelo": 4,
+    "sensibilidade": 5
   },
   {
     "nome": "Dogue Brasileiro",
@@ -791,7 +868,8 @@
     "oleosidade": 7,
     "olfato": 8,
     "producao_sebacea": 7,
-    "quantidade_de_pelo": 5
+    "quantidade_de_pelo": 5,
+    "sensibilidade": 5
   },
   {
     "nome": "Dogue de Bordeaux",
@@ -801,7 +879,8 @@
     "oleosidade": 8,
     "olfato": 7,
     "producao_sebacea": 8,
-    "quantidade_de_pelo": 4
+    "quantidade_de_pelo": 4,
+    "sensibilidade": 4
   },
   {
     "nome": "Drever",
@@ -811,7 +890,8 @@
     "oleosidade": 5,
     "olfato": 9,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 6
+    "quantidade_de_pelo": 6,
+    "sensibilidade": 6
   },
   {
     "nome": "Elkhound Norueguês",
@@ -821,7 +901,8 @@
     "oleosidade": 5,
     "olfato": 8,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 5
   },
   {
     "nome": "Eurasier",
@@ -831,7 +912,8 @@
     "oleosidade": 4,
     "olfato": 7,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 6
   },
   {
     "nome": "Field Spaniel",
@@ -841,7 +923,8 @@
     "oleosidade": 5,
     "olfato": 8,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 6
   },
   {
     "nome": "Fila Brasileiro",
@@ -851,7 +934,8 @@
     "oleosidade": 6,
     "olfato": 9,
     "producao_sebacea": 7,
-    "quantidade_de_pelo": 6
+    "quantidade_de_pelo": 6,
+    "sensibilidade": 5
   },
   {
     "nome": "Flat-Coated Retriever",
@@ -861,7 +945,8 @@
     "oleosidade": 5,
     "olfato": 8,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 6
   },
   {
     "nome": "Fox Terrier (Pelo Liso e Pelo Duro)",
@@ -871,7 +956,8 @@
     "oleosidade": 4,
     "olfato": 8,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 6
+    "quantidade_de_pelo": 6,
+    "sensibilidade": 6
   },
   {
     "nome": "Foxhound Americano",
@@ -881,7 +967,8 @@
     "oleosidade": 6,
     "olfato": 10,
     "producao_sebacea": 7,
-    "quantidade_de_pelo": 5
+    "quantidade_de_pelo": 5,
+    "sensibilidade": 5
   },
   {
     "nome": "Foxhound Inglês",
@@ -891,7 +978,8 @@
     "oleosidade": 6,
     "olfato": 10,
     "producao_sebacea": 7,
-    "quantidade_de_pelo": 5
+    "quantidade_de_pelo": 5,
+    "sensibilidade": 5
   },
   {
     "nome": "Galgo Espanhol",
@@ -901,7 +989,8 @@
     "oleosidade": 3,
     "olfato": 7,
     "producao_sebacea": 4,
-    "quantidade_de_pelo": 3
+    "quantidade_de_pelo": 3,
+    "sensibilidade": 7
   },
   {
     "nome": "Galgo Italiano",
@@ -911,7 +1000,8 @@
     "oleosidade": 2,
     "olfato": 5,
     "producao_sebacea": 2,
-    "quantidade_de_pelo": 1
+    "quantidade_de_pelo": 1,
+    "sensibilidade": 8
   },
   {
     "nome": "Golden Retriever",
@@ -921,7 +1011,8 @@
     "oleosidade": 5,
     "olfato": 8,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 7
   },
   {
     "nome": "Grande Basset Griffon Vendéen",
@@ -931,7 +1022,8 @@
     "oleosidade": 5,
     "olfato": 9,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 6
   },
   {
     "nome": "Grande Boiadeiro Suíço",
@@ -941,7 +1033,8 @@
     "oleosidade": 5,
     "olfato": 7,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 5
   },
   {
     "nome": "Greyhound",
@@ -951,7 +1044,8 @@
     "oleosidade": 3,
     "olfato": 6,
     "producao_sebacea": 3,
-    "quantidade_de_pelo": 2
+    "quantidade_de_pelo": 2,
+    "sensibilidade": 7
   },
   {
     "nome": "Griffon de Bruxelas",
@@ -961,7 +1055,8 @@
     "oleosidade": 5,
     "olfato": 7,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 6
+    "quantidade_de_pelo": 6,
+    "sensibilidade": 6
   },
   {
     "nome": "Hamiltonstövare",
@@ -971,7 +1066,8 @@
     "oleosidade": 5,
     "olfato": 9,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 6
+    "quantidade_de_pelo": 6,
+    "sensibilidade": 6
   },
   {
     "nome": "Havanês",
@@ -981,7 +1077,8 @@
     "oleosidade": 3,
     "olfato": 6,
     "producao_sebacea": 4,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 7
   },
   {
     "nome": "Hovawart",
@@ -991,7 +1088,8 @@
     "oleosidade": 5,
     "olfato": 8,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 6
   },
   {
     "nome": "Husky Siberiano",
@@ -1001,7 +1099,8 @@
     "oleosidade": 4,
     "olfato": 8,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 6
   },
   {
     "nome": "Jack Russell Terrier",
@@ -1011,7 +1110,8 @@
     "oleosidade": 4,
     "olfato": 8,
     "producao_sebacea": 4,
-    "quantidade_de_pelo": 5
+    "quantidade_de_pelo": 5,
+    "sensibilidade": 7
   },
   {
     "nome": "Keeshond",
@@ -1021,7 +1121,8 @@
     "oleosidade": 4,
     "olfato": 7,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 6
   },
   {
     "nome": "Kelpie Australiano",
@@ -1031,7 +1132,8 @@
     "oleosidade": 4,
     "olfato": 8,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 5
+    "quantidade_de_pelo": 5,
+    "sensibilidade": 6
   },
   {
     "nome": "King Charles Spaniel",
@@ -1041,7 +1143,8 @@
     "oleosidade": 5,
     "olfato": 6,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 7
   },
   {
     "nome": "Kromfohrländer",
@@ -1051,7 +1154,8 @@
     "oleosidade": 4,
     "olfato": 6,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 6
+    "quantidade_de_pelo": 6,
+    "sensibilidade": 7
   },
   {
     "nome": "Labrador Retriever",
@@ -1061,7 +1165,8 @@
     "oleosidade": 5,
     "olfato": 9,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 7
   },
   {
     "nome": "Landseer",
@@ -1071,7 +1176,8 @@
     "oleosidade": 6,
     "olfato": 7,
     "producao_sebacea": 7,
-    "quantidade_de_pelo": 9
+    "quantidade_de_pelo": 9,
+    "sensibilidade": 5
   },
   {
     "nome": "Leonberger",
@@ -1081,7 +1187,8 @@
     "oleosidade": 6,
     "olfato": 7,
     "producao_sebacea": 7,
-    "quantidade_de_pelo": 9
+    "quantidade_de_pelo": 9,
+    "sensibilidade": 5
   },
   {
     "nome": "Lhasa Apso",
@@ -1091,7 +1198,8 @@
     "oleosidade": 5,
     "olfato": 6,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 6
   },
   {
     "nome": "Malamute do Alasca",
@@ -1101,7 +1209,8 @@
     "oleosidade": 4,
     "olfato": 8,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 9
+    "quantidade_de_pelo": 9,
+    "sensibilidade": 5
   },
   {
     "nome": "Maltês",
@@ -1111,7 +1220,8 @@
     "oleosidade": 3,
     "olfato": 6,
     "producao_sebacea": 4,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 8
   },
   {
     "nome": "Mastiff Inglês",
@@ -1121,7 +1231,8 @@
     "oleosidade": 6,
     "olfato": 7,
     "producao_sebacea": 7,
-    "quantidade_de_pelo": 6
+    "quantidade_de_pelo": 6,
+    "sensibilidade": 5
   },
   {
     "nome": "Mastim Napolitano",
@@ -1131,7 +1242,8 @@
     "oleosidade": 8,
     "olfato": 7,
     "producao_sebacea": 8,
-    "quantidade_de_pelo": 5
+    "quantidade_de_pelo": 5,
+    "sensibilidade": 4
   },
   {
     "nome": "Mastim Tibetano",
@@ -1141,7 +1253,8 @@
     "oleosidade": 6,
     "olfato": 7,
     "producao_sebacea": 7,
-    "quantidade_de_pelo": 9
+    "quantidade_de_pelo": 9,
+    "sensibilidade": 4
   },
   {
     "nome": "Ovelheiro Gaúcho",
@@ -1151,7 +1264,8 @@
     "oleosidade": 5,
     "olfato": 8,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 6
+    "quantidade_de_pelo": 6,
+    "sensibilidade": 6
   },
   {
     "nome": "Pastor Alemão",
@@ -1161,7 +1275,8 @@
     "oleosidade": 6,
     "olfato": 9,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 6
   },
   {
     "nome": "Pastor Belga - Groenendael",
@@ -1171,7 +1286,8 @@
     "oleosidade": 5,
     "olfato": 8,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 9
+    "quantidade_de_pelo": 9,
+    "sensibilidade": 6
   },
   {
     "nome": "Pastor Belga - Laekenois",
@@ -1181,7 +1297,8 @@
     "oleosidade": 5,
     "olfato": 8,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 6
   },
   {
     "nome": "Pastor Belga - Malinois",
@@ -1191,7 +1308,8 @@
     "oleosidade": 5,
     "olfato": 9,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 6
+    "quantidade_de_pelo": 6,
+    "sensibilidade": 6
   },
   {
     "nome": "Pastor Belga - Tervuren",
@@ -1201,7 +1319,8 @@
     "oleosidade": 5,
     "olfato": 8,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 9
+    "quantidade_de_pelo": 9,
+    "sensibilidade": 6
   },
   {
     "nome": "Pastor Croata",
@@ -1211,7 +1330,8 @@
     "oleosidade": 4,
     "olfato": 7,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 6
+    "quantidade_de_pelo": 6,
+    "sensibilidade": 6
   },
   {
     "nome": "Pastor da Anatólia (Kangal)",
@@ -1221,7 +1341,8 @@
     "oleosidade": 6,
     "olfato": 8,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 5
   },
   {
     "nome": "Pastor da Catalunha",
@@ -1231,7 +1352,8 @@
     "oleosidade": 4,
     "olfato": 7,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 6
   },
   {
     "nome": "Pastor da Hungria - Mudi",
@@ -1241,7 +1363,8 @@
     "oleosidade": 4,
     "olfato": 8,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 6
+    "quantidade_de_pelo": 6,
+    "sensibilidade": 6
   },
   {
     "nome": "Pastor da Hungria - Puli",
@@ -1251,7 +1374,8 @@
     "oleosidade": 5,
     "olfato": 7,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 9
+    "quantidade_de_pelo": 9,
+    "sensibilidade": 5
   },
   {
     "nome": "Pastor da Hungria - Pumi",
@@ -1261,7 +1385,8 @@
     "oleosidade": 5,
     "olfato": 7,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 6
   },
   {
     "nome": "Pastor da Mantiqueira",
@@ -1273,7 +1398,8 @@
     "producao_sebacea": 5,
     "quantidade_de_pelo": 6,
     "origem": "Serra da Mantiqueira (MG/SP/RJ)",
-    "status": "Em documentação"
+    "status": "Em documentação",
+    "sensibilidade": 6
   },
   {
     "nome": "Pastor da Polônia",
@@ -1283,7 +1409,8 @@
     "oleosidade": 5,
     "olfato": 7,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 5
   },
   {
     "nome": "Pastor da Rússia Meridional",
@@ -1293,7 +1420,8 @@
     "oleosidade": 5,
     "olfato": 7,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 9
+    "quantidade_de_pelo": 9,
+    "sensibilidade": 4
   },
   {
     "nome": "Pastor da Tchecoslováquia (Wolfdog)",
@@ -1303,7 +1431,8 @@
     "oleosidade": 5,
     "olfato": 9,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 5
   },
   {
     "nome": "Pastor da Ásia Central",
@@ -1313,7 +1442,8 @@
     "oleosidade": 6,
     "olfato": 8,
     "producao_sebacea": 7,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 4
   },
   {
     "nome": "Pastor dos Pirenéus",
@@ -1323,7 +1453,8 @@
     "oleosidade": 4,
     "olfato": 7,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 6
   },
   {
     "nome": "Pastor Holandês - Pelo Curto",
@@ -1333,7 +1464,8 @@
     "oleosidade": 5,
     "olfato": 8,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 6
+    "quantidade_de_pelo": 6,
+    "sensibilidade": 6
   },
   {
     "nome": "Pastor Holandês - Pelo Duro",
@@ -1343,7 +1475,8 @@
     "oleosidade": 5,
     "olfato": 8,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 6
   },
   {
     "nome": "Pastor Holandês - Pelo Longo",
@@ -1353,7 +1486,8 @@
     "oleosidade": 5,
     "olfato": 8,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 6
   },
   {
     "nome": "Pequinês",
@@ -1363,7 +1497,8 @@
     "oleosidade": 5,
     "olfato": 6,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 6
   },
   {
     "nome": "Petit Basset Griffon Vendéen",
@@ -1373,7 +1508,8 @@
     "oleosidade": 5,
     "olfato": 9,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 6
   },
   {
     "nome": "Pinscher Miniatura",
@@ -1383,7 +1519,8 @@
     "oleosidade": 4,
     "olfato": 6,
     "producao_sebacea": 4,
-    "quantidade_de_pelo": 4
+    "quantidade_de_pelo": 4,
+    "sensibilidade": 7
   },
   {
     "nome": "Pinscher Serrano",
@@ -1395,7 +1532,8 @@
     "producao_sebacea": 4,
     "quantidade_de_pelo": 4,
     "origem": "Região Sul",
-    "status": "Raça natural"
+    "status": "Raça natural",
+    "sensibilidade": 6
   },
   {
     "nome": "Podengo Brasileiro",
@@ -1407,7 +1545,8 @@
     "producao_sebacea": 4,
     "quantidade_de_pelo": 4,
     "origem": "Adaptação do Podengo Português",
-    "status": "Não documentado"
+    "status": "Não documentado",
+    "sensibilidade": 6
   },
   {
     "nome": "Podengo Português (Médio)",
@@ -1417,7 +1556,8 @@
     "oleosidade": 4,
     "olfato": 8,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 5
+    "quantidade_de_pelo": 5,
+    "sensibilidade": 6
   },
   {
     "nome": "Podengo Português (Pequeno)",
@@ -1427,7 +1567,8 @@
     "oleosidade": 3,
     "olfato": 8,
     "producao_sebacea": 4,
-    "quantidade_de_pelo": 4
+    "quantidade_de_pelo": 4,
+    "sensibilidade": 7
   },
   {
     "nome": "Pointer Inglês",
@@ -1437,7 +1578,8 @@
     "oleosidade": 4,
     "olfato": 9,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 4
+    "quantidade_de_pelo": 4,
+    "sensibilidade": 7
   },
   {
     "nome": "Poodle (Anão)",
@@ -1447,7 +1589,8 @@
     "oleosidade": 3,
     "olfato": 7,
     "producao_sebacea": 4,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 8
   },
   {
     "nome": "Poodle (Médio)",
@@ -1457,7 +1600,8 @@
     "oleosidade": 3,
     "olfato": 7,
     "producao_sebacea": 4,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 8
   },
   {
     "nome": "Poodle (Standard)",
@@ -1467,7 +1611,8 @@
     "oleosidade": 3,
     "olfato": 7,
     "producao_sebacea": 4,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 8
   },
   {
     "nome": "Poodle (Toy)",
@@ -1477,7 +1622,8 @@
     "oleosidade": 3,
     "olfato": 7,
     "producao_sebacea": 4,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 8
   },
   {
     "nome": "Pug",
@@ -1487,7 +1633,8 @@
     "oleosidade": 6,
     "olfato": 7,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 5
+    "quantidade_de_pelo": 5,
+    "sensibilidade": 6
   },
   {
     "nome": "Rottweiler",
@@ -1497,7 +1644,8 @@
     "oleosidade": 6,
     "olfato": 8,
     "producao_sebacea": 7,
-    "quantidade_de_pelo": 6
+    "quantidade_de_pelo": 6,
+    "sensibilidade": 5
   },
   {
     "nome": "Sabujo Brasileiro",
@@ -1507,7 +1655,8 @@
     "oleosidade": 5,
     "olfato": 9,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 5
+    "quantidade_de_pelo": 5,
+    "sensibilidade": 6
   },
   {
     "nome": "Saluki",
@@ -1517,7 +1666,8 @@
     "oleosidade": 3,
     "olfato": 7,
     "producao_sebacea": 3,
-    "quantidade_de_pelo": 4
+    "quantidade_de_pelo": 4,
+    "sensibilidade": 7
   },
   {
     "nome": "Samoyeda",
@@ -1527,7 +1677,8 @@
     "oleosidade": 3,
     "olfato": 7,
     "producao_sebacea": 4,
-    "quantidade_de_pelo": 9
+    "quantidade_de_pelo": 9,
+    "sensibilidade": 6
   },
   {
     "nome": "Schillerstövare",
@@ -1537,7 +1688,8 @@
     "oleosidade": 5,
     "olfato": 9,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 6
+    "quantidade_de_pelo": 6,
+    "sensibilidade": 6
   },
   {
     "nome": "Schnauzer Gigante",
@@ -1547,7 +1699,8 @@
     "oleosidade": 6,
     "olfato": 8,
     "producao_sebacea": 7,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 5
   },
   {
     "nome": "Schnauzer Miniatura",
@@ -1557,7 +1710,8 @@
     "oleosidade": 5,
     "olfato": 7,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 6
   },
   {
     "nome": "Schnauzer Standard",
@@ -1567,7 +1721,8 @@
     "oleosidade": 5,
     "olfato": 8,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 6
   },
   {
     "nome": "Scottish Terrier",
@@ -1577,7 +1732,8 @@
     "oleosidade": 5,
     "olfato": 7,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 6
   },
   {
     "nome": "Setter Inglês",
@@ -1587,7 +1743,8 @@
     "oleosidade": 4,
     "olfato": 9,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 7
   },
   {
     "nome": "Setter Irlandês",
@@ -1597,7 +1754,8 @@
     "oleosidade": 4,
     "olfato": 9,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 7
   },
   {
     "nome": "Setter Irlandês Vermelho",
@@ -1607,7 +1765,8 @@
     "oleosidade": 4,
     "olfato": 9,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 7
   },
   {
     "nome": "Shetland Sheepdog (Sheltie)",
@@ -1617,7 +1776,8 @@
     "oleosidade": 3,
     "olfato": 7,
     "producao_sebacea": 4,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 7
   },
   {
     "nome": "Shiba Inu",
@@ -1627,7 +1787,8 @@
     "oleosidade": 4,
     "olfato": 8,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 6
   },
   {
     "nome": "Shih Tzu",
@@ -1637,7 +1798,8 @@
     "oleosidade": 4,
     "olfato": 6,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 7
   },
   {
     "nome": "Sloughi",
@@ -1647,7 +1809,8 @@
     "oleosidade": 3,
     "olfato": 7,
     "producao_sebacea": 3,
-    "quantidade_de_pelo": 3
+    "quantidade_de_pelo": 3,
+    "sensibilidade": 7
   },
   {
     "nome": "Spitz Alemão (Lulu da Pomerânia)",
@@ -1657,7 +1820,8 @@
     "oleosidade": 4,
     "olfato": 6,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 7
   },
   {
     "nome": "Spitz Alemão Anão (Lulu da Pomerânia)",
@@ -1667,7 +1831,8 @@
     "oleosidade": 4,
     "olfato": 6,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 7
   },
   {
     "nome": "Spitz Finlandês",
@@ -1677,7 +1842,8 @@
     "oleosidade": 4,
     "olfato": 8,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 6
   },
   {
     "nome": "Spitz Japonês",
@@ -1687,7 +1853,8 @@
     "oleosidade": 3,
     "olfato": 6,
     "producao_sebacea": 4,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 7
   },
   {
     "nome": "Springer Spaniel Inglês",
@@ -1697,7 +1864,8 @@
     "oleosidade": 5,
     "olfato": 8,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 7
   },
   {
     "nome": "Staffordshire Bull Terrier",
@@ -1707,7 +1875,8 @@
     "oleosidade": 5,
     "olfato": 7,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 4
+    "quantidade_de_pelo": 4,
+    "sensibilidade": 6
   },
   {
     "nome": "Sussex Spaniel",
@@ -1717,7 +1886,8 @@
     "oleosidade": 6,
     "olfato": 7,
     "producao_sebacea": 7,
-    "quantidade_de_pelo": 8
+    "quantidade_de_pelo": 8,
+    "sensibilidade": 6
   },
   {
     "nome": "São Bernardo",
@@ -1727,7 +1897,8 @@
     "oleosidade": 6,
     "olfato": 7,
     "producao_sebacea": 7,
-    "quantidade_de_pelo": 9
+    "quantidade_de_pelo": 9,
+    "sensibilidade": 5
   },
   {
     "nome": "Terranova",
@@ -1737,7 +1908,8 @@
     "oleosidade": 6,
     "olfato": 7,
     "producao_sebacea": 7,
-    "quantidade_de_pelo": 9
+    "quantidade_de_pelo": 9,
+    "sensibilidade": 5
   },
   {
     "nome": "Terrier Brasileiro",
@@ -1747,7 +1919,8 @@
     "oleosidade": 4,
     "olfato": 7,
     "producao_sebacea": 4,
-    "quantidade_de_pelo": 5
+    "quantidade_de_pelo": 5,
+    "sensibilidade": 7
   },
   {
     "nome": "Tosa Inu",
@@ -1757,7 +1930,8 @@
     "oleosidade": 6,
     "olfato": 7,
     "producao_sebacea": 7,
-    "quantidade_de_pelo": 6
+    "quantidade_de_pelo": 6,
+    "sensibilidade": 5
   },
   {
     "nome": "Veadeiro Catarinense",
@@ -1769,7 +1943,8 @@
     "producao_sebacea": 4,
     "quantidade_de_pelo": 5,
     "origem": "Santa Catarina",
-    "status": "Raça natural"
+    "status": "Raça natural",
+    "sensibilidade": 6
   },
   {
     "nome": "Veadeiro Pampeano",
@@ -1779,7 +1954,8 @@
     "oleosidade": 4,
     "olfato": 9,
     "producao_sebacea": 4,
-    "quantidade_de_pelo": 5
+    "quantidade_de_pelo": 5,
+    "sensibilidade": 6
   },
   {
     "nome": "Weimaraner",
@@ -1789,7 +1965,8 @@
     "oleosidade": 5,
     "olfato": 9,
     "producao_sebacea": 6,
-    "quantidade_de_pelo": 5
+    "quantidade_de_pelo": 5,
+    "sensibilidade": 6
   },
   {
     "nome": "Welsh Corgi Cardigan",
@@ -1799,7 +1976,8 @@
     "oleosidade": 5,
     "olfato": 7,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 6
   },
   {
     "nome": "Welsh Corgi Pembroke",
@@ -1809,7 +1987,8 @@
     "oleosidade": 5,
     "olfato": 7,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 6
   },
   {
     "nome": "West Highland White Terrier",
@@ -1819,7 +1998,8 @@
     "oleosidade": 4,
     "olfato": 7,
     "producao_sebacea": 5,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 6
   },
   {
     "nome": "Whippet",
@@ -1829,7 +2009,8 @@
     "oleosidade": 3,
     "olfato": 6,
     "producao_sebacea": 3,
-    "quantidade_de_pelo": 2
+    "quantidade_de_pelo": 2,
+    "sensibilidade": 7
   },
   {
     "nome": "Yorkshire Terrier",
@@ -1839,6 +2020,7 @@
     "oleosidade": 3,
     "olfato": 6,
     "producao_sebacea": 4,
-    "quantidade_de_pelo": 7
+    "quantidade_de_pelo": 7,
+    "sensibilidade": 8
   }
 ]
