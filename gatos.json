@@ -9,7 +9,8 @@
     "oleosidade": 3,
     "olfato": 7,
     "producao_sebacea": 4,
-    "quantidade_pelo": 4
+    "quantidade_pelo": 4,
+    "sensibilidade": 5
   },
   {
     "nome": "American Shorthair",
@@ -21,7 +22,8 @@
     "oleosidade": 4,
     "olfato": 6,
     "producao_sebacea": 4,
-    "quantidade_pelo": 5
+    "quantidade_pelo": 5,
+    "sensibilidade": 5
   },
   {
     "nome": "American Shorthair",
@@ -33,7 +35,8 @@
     "oleosidade": 4,
     "olfato": 6,
     "producao_sebacea": 4,
-    "quantidade_pelo": 5
+    "quantidade_pelo": 5,
+    "sensibilidade": 5
   },
   {
     "nome": "American Wirehair",
@@ -45,7 +48,8 @@
     "oleosidade": 5,
     "olfato": 6,
     "producao_sebacea": 5,
-    "quantidade_pelo": 5
+    "quantidade_pelo": 5,
+    "sensibilidade": 6
   },
   {
     "nome": "Angorá",
@@ -57,7 +61,8 @@
     "oleosidade": 5,
     "olfato": 6,
     "producao_sebacea": 5,
-    "quantidade_pelo": 8
+    "quantidade_pelo": 8,
+    "sensibilidade": 6
   },
   {
     "nome": "Balinese",
@@ -69,7 +74,8 @@
     "oleosidade": 4,
     "olfato": 7,
     "producao_sebacea": 4,
-    "quantidade_pelo": 6
+    "quantidade_pelo": 6,
+    "sensibilidade": 5
   },
   {
     "nome": "Bengal",
@@ -81,7 +87,8 @@
     "oleosidade": 4,
     "olfato": 7,
     "producao_sebacea": 5,
-    "quantidade_pelo": 5
+    "quantidade_pelo": 5,
+    "sensibilidade": 5
   },
   {
     "nome": "Bobtail Japonês",
@@ -93,7 +100,8 @@
     "oleosidade": 4,
     "olfato": 6,
     "producao_sebacea": 4,
-    "quantidade_pelo": 4
+    "quantidade_pelo": 4,
+    "sensibilidade": 5
   },
   {
     "nome": "Bombay",
@@ -105,7 +113,8 @@
     "oleosidade": 3,
     "olfato": 6,
     "producao_sebacea": 4,
-    "quantidade_pelo": 4
+    "quantidade_pelo": 4,
+    "sensibilidade": 4
   },
   {
     "nome": "Brazilian Shorthair (Pelo Curto Brasileiro)",
@@ -117,7 +126,8 @@
     "oleosidade": 4,
     "olfato": 7,
     "producao_sebacea": 4,
-    "quantidade_pelo": 5
+    "quantidade_pelo": 5,
+    "sensibilidade": 5
   },
   {
     "nome": "British Shorthair",
@@ -129,7 +139,8 @@
     "oleosidade": 4,
     "olfato": 5,
     "producao_sebacea": 4,
-    "quantidade_pelo": 6
+    "quantidade_pelo": 6,
+    "sensibilidade": 6
   },
   {
     "nome": "Chantilly-Tiffany",
@@ -141,7 +152,8 @@
     "oleosidade": 5,
     "olfato": 6,
     "producao_sebacea": 5,
-    "quantidade_pelo": 6
+    "quantidade_pelo": 6,
+    "sensibilidade": 6
   },
   {
     "nome": "Chartreux",
@@ -153,7 +165,8 @@
     "oleosidade": 4,
     "olfato": 5,
     "producao_sebacea": 4,
-    "quantidade_pelo": 7
+    "quantidade_pelo": 7,
+    "sensibilidade": 6
   },
   {
     "nome": "Colorpoint Shorthair",
@@ -165,7 +178,8 @@
     "oleosidade": 3,
     "olfato": 7,
     "producao_sebacea": 3,
-    "quantidade_pelo": 3
+    "quantidade_pelo": 3,
+    "sensibilidade": 4
   },
   {
     "nome": "Curl Americano",
@@ -177,7 +191,8 @@
     "oleosidade": 4,
     "olfato": 6,
     "producao_sebacea": 4,
-    "quantidade_pelo": 4
+    "quantidade_pelo": 4,
+    "sensibilidade": 5
   },
   {
     "nome": "Cymric (Manx de pelo longo)",
@@ -189,7 +204,8 @@
     "oleosidade": 5,
     "olfato": 6,
     "producao_sebacea": 5,
-    "quantidade_pelo": 8
+    "quantidade_pelo": 8,
+    "sensibilidade": 6
   },
   {
     "nome": "Devon Rex",
@@ -201,7 +217,8 @@
     "oleosidade": 5,
     "olfato": 7,
     "producao_sebacea": 5,
-    "quantidade_pelo": 3
+    "quantidade_pelo": 3,
+    "sensibilidade": 4
   },
   {
     "nome": "European Shorthair",
@@ -213,7 +230,8 @@
     "oleosidade": 4,
     "olfato": 6,
     "producao_sebacea": 4,
-    "quantidade_pelo": 5
+    "quantidade_pelo": 5,
+    "sensibilidade": 5
   },
   {
     "nome": "Exótico de Pelo Curto",
@@ -225,7 +243,8 @@
     "oleosidade": 5,
     "olfato": 6,
     "producao_sebacea": 5,
-    "quantidade_pelo": 6
+    "quantidade_pelo": 6,
+    "sensibilidade": 7
   },
   {
     "nome": "Havana Brown",
@@ -237,7 +256,8 @@
     "oleosidade": 4,
     "olfato": 7,
     "producao_sebacea": 3,
-    "quantidade_pelo": 3
+    "quantidade_pelo": 3,
+    "sensibilidade": 4
   },
   {
     "nome": "Highlander",
@@ -249,7 +269,8 @@
     "oleosidade": 5,
     "olfato": 7,
     "producao_sebacea": 5,
-    "quantidade_pelo": 6
+    "quantidade_pelo": 6,
+    "sensibilidade": 6
   },
   {
     "nome": "Himalaio",
@@ -261,7 +282,8 @@
     "oleosidade": 6,
     "olfato": 6,
     "producao_sebacea": 6,
-    "quantidade_pelo": 9
+    "quantidade_pelo": 9,
+    "sensibilidade": 7
   },
   {
     "nome": "Japanese Bobtail",
@@ -273,7 +295,8 @@
     "oleosidade": 4,
     "olfato": 6,
     "producao_sebacea": 4,
-    "quantidade_pelo": 5
+    "quantidade_pelo": 5,
+    "sensibilidade": 5
   },
   {
     "nome": "Korat",
@@ -285,7 +308,8 @@
     "oleosidade": 3,
     "olfato": 6,
     "producao_sebacea": 3,
-    "quantidade_pelo": 3
+    "quantidade_pelo": 3,
+    "sensibilidade": 4
   },
   {
     "nome": "Kurilian Bobtail",
@@ -297,7 +321,8 @@
     "oleosidade": 5,
     "olfato": 6,
     "producao_sebacea": 5,
-    "quantidade_pelo": 6
+    "quantidade_pelo": 6,
+    "sensibilidade": 6
   },
   {
     "nome": "LaPerm",
@@ -309,7 +334,8 @@
     "oleosidade": 5,
     "olfato": 6,
     "producao_sebacea": 5,
-    "quantidade_pelo": 5
+    "quantidade_pelo": 5,
+    "sensibilidade": 5
   },
   {
     "nome": "Maine Coon",
@@ -321,7 +347,8 @@
     "oleosidade": 5,
     "olfato": 6,
     "producao_sebacea": 6,
-    "quantidade_pelo": 9
+    "quantidade_pelo": 9,
+    "sensibilidade": 7
   },
   {
     "nome": "Manx",
@@ -333,7 +360,8 @@
     "oleosidade": 4,
     "olfato": 6,
     "producao_sebacea": 4,
-    "quantidade_pelo": 5
+    "quantidade_pelo": 5,
+    "sensibilidade": 5
   },
   {
     "nome": "Munchkin",
@@ -345,7 +373,8 @@
     "oleosidade": 4,
     "olfato": 6,
     "producao_sebacea": 4,
-    "quantidade_pelo": 5
+    "quantidade_pelo": 5,
+    "sensibilidade": 5
   },
   {
     "nome": "Norueguês da Floresta",
@@ -357,7 +386,8 @@
     "oleosidade": 5,
     "olfato": 6,
     "producao_sebacea": 5,
-    "quantidade_pelo": 9
+    "quantidade_pelo": 9,
+    "sensibilidade": 7
   },
   {
     "nome": "Ocicat",
@@ -369,7 +399,8 @@
     "oleosidade": 3,
     "olfato": 6,
     "producao_sebacea": 4,
-    "quantidade_pelo": 4
+    "quantidade_pelo": 4,
+    "sensibilidade": 4
   },
   {
     "nome": "Oriental Longhair",
@@ -381,7 +412,8 @@
     "oleosidade": 4,
     "olfato": 7,
     "producao_sebacea": 4,
-    "quantidade_pelo": 6
+    "quantidade_pelo": 6,
+    "sensibilidade": 5
   },
   {
     "nome": "Oriental Shorthair",
@@ -393,7 +425,8 @@
     "oleosidade": 3,
     "olfato": 7,
     "producao_sebacea": 3,
-    "quantidade_pelo": 3
+    "quantidade_pelo": 3,
+    "sensibilidade": 4
   },
   {
     "nome": "Oriental Shorthair",
@@ -405,7 +438,8 @@
     "oleosidade": 3,
     "olfato": 7,
     "producao_sebacea": 3,
-    "quantidade_pelo": 3
+    "quantidade_pelo": 3,
+    "sensibilidade": 3
   },
   {
     "nome": "Persa",
@@ -417,7 +451,8 @@
     "oleosidade": 6,
     "olfato": 6,
     "producao_sebacea": 6,
-    "quantidade_pelo": 9
+    "quantidade_pelo": 9,
+    "sensibilidade": 8
   },
   {
     "nome": "Peterbald",
@@ -429,7 +464,8 @@
     "oleosidade": 7,
     "olfato": 8,
     "producao_sebacea": 7,
-    "quantidade_pelo": 1
+    "quantidade_pelo": 1,
+    "sensibilidade": 3
   },
   {
     "nome": "Peterbald",
@@ -441,7 +477,8 @@
     "oleosidade": 7,
     "olfato": 8,
     "producao_sebacea": 7,
-    "quantidade_pelo": 1
+    "quantidade_pelo": 1,
+    "sensibilidade": 3
   },
   {
     "nome": "Ragdoll",
@@ -453,7 +490,8 @@
     "oleosidade": 4,
     "olfato": 6,
     "producao_sebacea": 5,
-    "quantidade_pelo": 8
+    "quantidade_pelo": 8,
+    "sensibilidade": 6
   },
   {
     "nome": "Scottish Fold",
@@ -465,7 +503,8 @@
     "oleosidade": 4,
     "olfato": 6,
     "producao_sebacea": 4,
-    "quantidade_pelo": 5
+    "quantidade_pelo": 5,
+    "sensibilidade": 6
   },
   {
     "nome": "Selkirk Rex",
@@ -477,7 +516,8 @@
     "oleosidade": 5,
     "olfato": 6,
     "producao_sebacea": 5,
-    "quantidade_pelo": 7
+    "quantidade_pelo": 7,
+    "sensibilidade": 6
   },
   {
     "nome": "Serengeti",
@@ -489,7 +529,8 @@
     "oleosidade": 3,
     "olfato": 7,
     "producao_sebacea": 3,
-    "quantidade_pelo": 4
+    "quantidade_pelo": 4,
+    "sensibilidade": 4
   },
   {
     "nome": "Siamês",
@@ -501,7 +542,8 @@
     "oleosidade": 3,
     "olfato": 7,
     "producao_sebacea": 4,
-    "quantidade_pelo": 3
+    "quantidade_pelo": 3,
+    "sensibilidade": 4
   },
   {
     "nome": "Siberiano",
@@ -513,7 +555,8 @@
     "oleosidade": 6,
     "olfato": 6,
     "producao_sebacea": 6,
-    "quantidade_pelo": 10
+    "quantidade_pelo": 10,
+    "sensibilidade": 7
   },
   {
     "nome": "Singapura",
@@ -525,7 +568,8 @@
     "oleosidade": 2,
     "olfato": 7,
     "producao_sebacea": 3,
-    "quantidade_pelo": 3
+    "quantidade_pelo": 3,
+    "sensibilidade": 3
   },
   {
     "nome": "Singapura",
@@ -537,7 +581,8 @@
     "oleosidade": 3,
     "olfato": 6,
     "producao_sebacea": 3,
-    "quantidade_pelo": 3
+    "quantidade_pelo": 3,
+    "sensibilidade": 4
   },
   {
     "nome": "Sphynx",
@@ -549,7 +594,8 @@
     "oleosidade": 9,
     "olfato": 6,
     "producao_sebacea": 9,
-    "quantidade_pelo": 0
+    "quantidade_pelo": 0,
+    "sensibilidade": 3
   },
   {
     "nome": "Tonquinês",
@@ -561,7 +607,8 @@
     "oleosidade": 3,
     "olfato": 7,
     "producao_sebacea": 3,
-    "quantidade_pelo": 4
+    "quantidade_pelo": 4,
+    "sensibilidade": 4
   },
   {
     "nome": "Toyger",
@@ -573,7 +620,8 @@
     "oleosidade": 4,
     "olfato": 7,
     "producao_sebacea": 4,
-    "quantidade_pelo": 5
+    "quantidade_pelo": 5,
+    "sensibilidade": 5
   },
   {
     "nome": "Turkish Angora (Angorá Turco)",
@@ -585,7 +633,8 @@
     "oleosidade": 5,
     "olfato": 6,
     "producao_sebacea": 5,
-    "quantidade_pelo": 7
+    "quantidade_pelo": 7,
+    "sensibilidade": 6
   },
   {
     "nome": "Turkish Van (Van Turco)",
@@ -597,6 +646,7 @@
     "oleosidade": 6,
     "olfato": 6,
     "producao_sebacea": 6,
-    "quantidade_pelo": 7
+    "quantidade_pelo": 7,
+    "sensibilidade": 6
   }
 ]
